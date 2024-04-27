@@ -1,9 +1,10 @@
-import LandingPage from "./components/page/landing/LandingPage.jsx"
+import "./App.css"
+import HomePage from "./pages/home/HomePage.jsx"
 
 function App() {
   return (
     <>
-      <LandingPage />
+      <HomePage />
     </>
   );
 }

@@ -1,0 +1,61 @@
+.header {
+    background-color: #FFFFFF;
+    text-align: center;
+    height: 75px;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 30px;
+    box-sizing: border-box;
+}
+
+.header_logo {
+}
+
+.header_logo img {
+    width: 140px;
+    /*height: 130px;*/
+}
+
+.header_nav {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 11px;
+    /*line-height: 40px;*/
+    font-family: "Nunito Sans", sans-serif;
+}
+
+.header_nav li {
+    display: inline-block;
+    position: relative;
+    padding: 0 2.5rem;
+}
+
+.header_nav li > a {
+    color: #000000;
+    text-decoration: none;
+}
+
+.header_search {
+    background-image: url(../../assets/icons/icon-search.svg);
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: contain;
+    height: 20px;
+}
+
+.header_search::before {
+    font-family: "Nunito Sans", sans-serif;
+    font-weight: 600;
+    font-size: 11px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    content: "Search";
+    color: #000000;
+    padding-right: 30px;
+}
+

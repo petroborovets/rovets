@@ -10,7 +10,7 @@ Was created using `npm create vite@latest peboblog -- --template react`
 4. Check npm version by running `npm --version`, I am running `10.5.0`.
 
 ### To start in dev mode run:
-
+`npm install`
 `npm run dev`
 
 Currently, two official plugins are available:
