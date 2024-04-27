@@ -3,9 +3,7 @@ import s from './Header.module.css'
 function Header() {
     return (
         <header className={s.header}>
-            <div className={s.header_logo}>
-                <img src="./logo.png" alt="logo"/>
-            </div>
+            <img className={s.header_logo_img} src={"./logo.png"} alt="logo"/>
             <nav className={s.header_nav}>
                 <ul>
                     <li><a href="" title="">Home</a></li>

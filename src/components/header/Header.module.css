@@ -13,10 +13,7 @@
     box-sizing: border-box;
 }
 
-.header_logo {
-}
-
-.header_logo img {
+.header_logo_img {
     width: 140px;
     /*height: 130px;*/
 }
