@@ -5,23 +5,18 @@ import FeaturedSectionEntry from "./featuredSectionEntry/FeaturedSectionEntry.js
 import postsJson from './../../../constants/posts.json';
 
 function FeaturedSection() {
-    let posts = postsJson.posts;
-
+    const posts = postsJson.posts;
     return (
         <div className={s.section}>
             {
-                posts.map(
-                    function (post) {
-                        return (
-                            <FeaturedSectionEntry key={post.id}
-                                                  id={post.id}
-                                                  image={post.image}
-                                                  category={post.category}
-                                                  title={post.title}
-                                                  date={post.date}>
-                            </FeaturedSectionEntry>
-                        )
-                    }
+                posts.map(post =>
+                    <FeaturedSectionEntry key={post.id}
+                                          id={post.id}
+                                          image={post.image}
+                                          category={post.category}
+                                          title={post.title}
+                                          date={post.date}>
+                    </FeaturedSectionEntry>
                 )
             }
         </div>
