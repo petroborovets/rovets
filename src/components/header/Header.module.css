@@ -1,35 +1,47 @@
 .header {
     background-color: #FFFFFF;
-    text-align: center;
-    height: 75px;
     width: 100%;
-    position: absolute;
     top: 0;
-    left: 0;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0 30px;
+    padding: 10px 30px;
     box-sizing: border-box;
+    margin-bottom: 10px;
 }
 
-.header_logo_img {
-    width: 140px;
-    /*height: 130px;*/
+.header_logo {
+    /*width: 140px;*/
+    letter-spacing: 2px;
+    font-weight: 900;
+    color: #555555;
+    transition: transform .5s;
+}
+
+.header_logo:hover {
+    color: #111111;
+    transform: scale(1.05);
+    cursor: pointer;
 }
 
 .header_nav {
     text-transform: uppercase;
     letter-spacing: 2px;
     font-size: 11px;
-    /*line-height: 40px;*/
-    font-family: "Nunito Sans", sans-serif;
+    font-weight: 500;
+    color: #999999;
 }
 
 .header_nav li {
     display: inline-block;
     position: relative;
     padding: 0 2.5rem;
+    transition: transform .5s;
+}
+
+.header_nav li:hover {
+    transform: scale(1.05);
+    color: #111111;
 }
 
 .header_nav li > a {
@@ -43,11 +55,17 @@
     background-position: right center;
     background-size: contain;
     height: 20px;
+    transition: transform .5s;
+}
+
+.header_search:hover {
+    color: #111111;
+    cursor: pointer;
+    transform: scale(1.05);
 }
 
 .header_search::before {
-    font-family: "Nunito Sans", sans-serif;
-    font-weight: 600;
+    font-weight: 400;
     font-size: 11px;
     letter-spacing: 2px;
     text-transform: uppercase;
@@ -55,4 +73,5 @@
     color: #000000;
     padding-right: 30px;
 }
+
 

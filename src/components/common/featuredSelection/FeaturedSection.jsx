@@ -1,130 +1,53 @@
+import s from './FeaturedSection.module.css'
+import lamp from './../../../assets/thumbs/post/lamp-400.jpg'
+import avian from './../../../assets/thumbs/post/avian-400.jpg'
+import guitarist from './../../../assets/thumbs/post/guitarist-400.jpg'
+import beetle from './../../../assets/thumbs/post/beetle-400.jpg'
+// import fuji from './../../../assets/thumbs/post/fuji-400.jpg'
+// import jump from './../../../assets/thumbs/post/jump-400.jpg'
+
 function FeaturedSection() {
-  return (
-    <>
-      <div>Section</div>
-      {/*<section className="s-featured">*/}
-      {/*  <div className="row">*/}
-      {/*    <div className="col-full">*/}
-      {/*      <div className="featured-slider featured" data-aos="zoom-in">*/}
-      {/*        <div className="featured__slide">*/}
-      {/*          <div className="entry">*/}
-      {/*            <div*/}
-      {/*              className="entry__background"*/}
-      {/*              // style="background-image: url('images/thumbs/featured/featured-guitarman.jpg');"*/}
-      {/*            ></div>*/}
+    return (
+        <section className={s.section}>
+            <div className={s.section_entries}>
+                <div className={s.section_entry}>
+                    <a href="">
+                        <img src={lamp} alt="lamp"/>
+                    </a>
+                    <h3 className={s.section_entry_cat}>Design</h3>
+                    <h2 className={s.section_entry_title}>3 Benefits of Minimalism In Interior Design.</h2>
+                    <h3 className={s.section_entry_date}>June 15, 2018</h3>
+                </div>
 
-      {/*            <div className="entry__content">*/}
-      {/*              <span className="entry__category">*/}
-      {/*                <a href="#0">Music</a>*/}
-      {/*              </span>*/}
+                <div className={s.section_entry}>
+                    <a href="">
+                        <img src={avian} alt="avian"/>
+                    </a>
+                    <h3 className={s.section_entry_cat}>Design</h3>
+                    <h2 className={s.section_entry_title}>What Your Music Preference Says About You and Your Personality.</h2>
+                    <h3 className={s.section_entry_date}>June 15, 2018</h3>
+                </div>
 
-      {/*              <h1>*/}
-      {/*                <a href="#0" title="">*/}
-      {/*                  What Your Music Preference Says About You and Your*/}
-      {/*                  Personality.*/}
-      {/*                </a>*/}
-      {/*              </h1>*/}
+                <div className={s.section_entry}>
+                    <a href="">
+                        <img src={guitarist} alt="guitarist"/>
+                    </a>
+                    <h3 className={s.section_entry_cat}>Design</h3>
+                    <h2 className={s.section_entry_title}>3 Benefits of Minimalism In Interior Design.</h2>
+                    <h3 className={s.section_entry_date}>June 15, 2018</h3>
+                </div>
 
-      {/*              <div className="entry__info">*/}
-      {/*                <a href="#0" className="entry__profile-pic">*/}
-      {/*                  <img*/}
-      {/*                    className="avatar"*/}
-      {/*                    src="images/avatars/user-05.jpg"*/}
-      {/*                    alt=""*/}
-      {/*                  />*/}
-      {/*                </a>*/}
-      {/*                <ul className="entry__meta">*/}
-      {/*                  <li>*/}
-      {/*                    <a href="#0">Jonathan Smith</a>*/}
-      {/*                  </li>*/}
-      {/*                  <li>June 02, 2018</li>*/}
-      {/*                </ul>*/}
-      {/*              </div>*/}
-      {/*            </div>*/}
-      {/*          </div>*/}
-      {/*        </div>*/}
-
-      {/*        <div className="featured__slide">*/}
-      {/*          <div className="entry">*/}
-      {/*            <div*/}
-      {/*              className="entry__background"*/}
-      {/*              // style="background-image: url('images/thumbs/featured/featured-watch.jpg');"*/}
-      {/*            ></div>*/}
-
-      {/*            <div className="entry__content">*/}
-      {/*              <span className="entry__category">*/}
-      {/*                <a href="#0">Management</a>*/}
-      {/*              </span>*/}
-
-      {/*              <h1>*/}
-      {/*                <a href="#0" title="">*/}
-      {/*                  The Pomodoro Technique Really Works.*/}
-      {/*                </a>*/}
-      {/*              </h1>*/}
-
-      {/*              <div className="entry__info">*/}
-      {/*                <a href="#0" className="entry__profile-pic">*/}
-      {/*                  <img*/}
-      {/*                    className="avatar"*/}
-      {/*                    src="images/avatars/user-03.jpg"*/}
-      {/*                    alt=""*/}
-      {/*                  />*/}
-      {/*                </a>*/}
-
-      {/*                <ul className="entry__meta">*/}
-      {/*                  <li>*/}
-      {/*                    <a href="#0">John Doe</a>*/}
-      {/*                  </li>*/}
-      {/*                  <li>June 13, 2018</li>*/}
-      {/*                </ul>*/}
-      {/*              </div>*/}
-      {/*            </div>*/}
-      {/*          </div>*/}
-      {/*        </div>*/}
-
-      {/*        <div className="featured__slide">*/}
-      {/*          <div className="entry">*/}
-      {/*            <div*/}
-      {/*              className="entry__background"*/}
-      {/*              // style="background-image: url('images/thumbs/featured/featured-beetle.jpg');"*/}
-      {/*            ></div>*/}
-
-      {/*            <div className="entry__content">*/}
-      {/*              <span className="entry__category">*/}
-      {/*                <a href="#0">LifeStyle</a>*/}
-      {/*              </span>*/}
-
-      {/*              <h1>*/}
-      {/*                <a href="#0" title="">*/}
-      {/*                  The difference between Classics, Vintage & Antique Cars.*/}
-      {/*                </a>*/}
-      {/*              </h1>*/}
-
-      {/*              <div className="entry__info">*/}
-      {/*                <a href="#0" className="entry__profile-pic">*/}
-      {/*                  <img*/}
-      {/*                    className="avatar"*/}
-      {/*                    src="images/avatars/user-03.jpg"*/}
-      {/*                    alt=""*/}
-      {/*                  />*/}
-      {/*                </a>*/}
-
-      {/*                <ul className="entry__meta">*/}
-      {/*                  <li>*/}
-      {/*                    <a href="#0">John Doe</a>*/}
-      {/*                  </li>*/}
-      {/*                  <li>June 12, 2018</li>*/}
-      {/*                </ul>*/}
-      {/*              </div>*/}
-      {/*            </div>*/}
-      {/*          </div>*/}
-      {/*        </div>*/}
-      {/*      </div>*/}
-      {/*    </div>*/}
-      {/*  </div>*/}
-      {/*</section>*/}
-    </>
-  );
+                <div className={s.section_entry}>
+                    <a href="">
+                        <img src={beetle} alt="beetle"/>
+                    </a>
+                    <h3 className={s.section_entry_cat}>Design</h3>
+                    <h2 className={s.section_entry_title}>3 Benefits of Minimalism In Interior Design.</h2>
+                    <h3 className={s.section_entry_date}>June 15, 2018</h3>
+                </div>
+            </div>
+        </section>
+    );
 }
 
 export default FeaturedSection;

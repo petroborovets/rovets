@@ -1,8 +1,10 @@
+import s from './Footer.module.css';
+
 function Footer() {
     return (
         <>
-            <footer>
-                <h3>-Footer-</h3>
+            <footer className={s.footer}>
+                <h3>Footer</h3>
             </footer>
         </>
     );
