@@ -3,6 +3,7 @@
 Blog website written using React working in Vite with HMR and some ESLint rules. <br />
 Was created using `npm create vite@latest peboblog -- --template react`
 
+Hosted on GitHub Pages: https://petroborovets.github.io/pebo/
 
 <img width="1710" alt="Screenshot 2024-05-08 at 13 55 13" src="https://github.com/petroborovets/peboblog/assets/6223083/6e598fec-f124-46ad-92f3-b895d8f38fc3">
 

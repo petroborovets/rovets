@@ -31,21 +31,36 @@
     color: #999999;
 }
 
-.header_nav li {
-    display: inline-block;
+.header_nav_li {
     position: relative;
+    display: inline-block;
     padding: 0 2.5rem;
     transition: transform .5s;
 }
 
-.header_nav li:hover {
+.header_nav_li:hover {
     transform: scale(1.1);
     color: #111111;
 }
 
-.header_nav li > a {
+.header_nav_li > a {
     color: #000000;
     text-decoration: none;
+}
+
+.header_nav_li_with_children {
+    transform: rotate(180deg);
+    position: absolute;
+    display: inline-block;
+    right: 27px;
+    top: 6%;
+    transition: transform .5s;
+}
+
+.header_nav_li:hover > .header_nav_li_with_children {
+    transform: rotateY(180deg);
+    bottom: 10%;
+    top: -13%;
 }
 
 .header_search {
@@ -72,5 +87,3 @@
     color: #000000;
     padding-right: 30px;
 }
-
-

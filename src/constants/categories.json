@@ -20,5 +20,10 @@
       "id": 5,
       "name": "Music"
     }
+  ,
+    {
+      "id": 6,
+      "name": "Family"
+    }
   ]
 }
