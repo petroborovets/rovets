@@ -1,11 +1,15 @@
 import s from './FeaturedSectionEntry.module.css';
 
+import categoriesJson from './../../../../constants/categories.json'
+
 /* eslint-disable react/prop-types */
 function FeaturedSectionEntry(props) {
     let image = props.image;
-    let category = props.category;
+    let categoryId = props.category;
     let title = props.title;
     let date = props.date;
+
+    let category = categoriesJson?.categories?.filter(c => c.id === categoryId)[0]?.name || 'Unknown Category';
 
     return <div className={s.section_entry}>
         <a href="">
