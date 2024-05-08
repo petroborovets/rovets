@@ -6,6 +6,7 @@
     margin: 60px auto;
     text-align: center;
     width: 92%;
+    z-index:2;
 }
 
 @media (max-width: 1024px) {
