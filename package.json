@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "http://petroborovets.github.io/pebo",
   "scripts": {
     "dev": "vite",
     "build": "vite build --base=./",
