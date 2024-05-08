@@ -1,0 +1,45 @@
+.footer {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    background-color: rgb(29, 29, 31);
+    border-color: rgba(255, 255, 255, 0.24);
+    color: rgba(255, 255, 255, 0.56);
+    margin-top: 100px;
+    padding: 100px;
+    font-size: 14px;
+    letter-spacing: 2px;
+    line-height: 30px;
+}
+
+.footer_left {
+    max-width: 40%;
+}
+
+.footer_left_about_description {
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.footer_left_about_title {
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-bottom: 20px;
+    border-bottom: rgba(255, 255, 255, 0.8);
+}
+
+.footer_right {
+    max-width: 40%;
+}
+
+.footer_right_copyright {
+    margin-top: 50px;
+    text-align: right;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.footer_about_description_ghub {
+    color: rgba(255, 255, 255, 0.8);
+}

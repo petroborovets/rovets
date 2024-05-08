@@ -3,7 +3,7 @@ import s from './Header.module.css'
 function Header() {
     return (
         <header className={s.header}>
-            <img className={s.header_logo_img} src={"./logo.png"} alt="logo"/>
+            <h1 className={s.header_logo}>PeBo</h1>
             <nav className={s.header_nav}>
                 <ul>
                     <li><a href="" title="">Home</a></li>
