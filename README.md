@@ -1,4 +1,4 @@
-# Pe.Bo.Blog
+# Pe.Bo.
 
 Blog website written using React working in Vite with HMR and some ESLint rules. <br />
 Was created using `npm create vite@latest peboblog -- --template react`

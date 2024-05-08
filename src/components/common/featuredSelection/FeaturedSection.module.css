@@ -1,20 +1,15 @@
 .section {
-    width: 92%;
-    margin: 60px auto;
-}
-
-.section_entries {
     display: flex;
     flex-flow: row wrap;
     justify-content: space-between;
-    margin-bottom: 50px;
-    column-gap: 15px;
-    row-gap: 40px;
+    gap: 40px;
+    margin: 60px auto;
     text-align: center;
+    width: 92%;
 }
 
 @media (max-width: 1024px) {
-    .section_entries{
+    .section{
         justify-content: space-around;
     }
 }
