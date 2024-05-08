@@ -3,8 +3,6 @@ import lamp from './../../../assets/thumbs/post/lamp-400.jpg'
 import avian from './../../../assets/thumbs/post/avian-400.jpg'
 import guitarist from './../../../assets/thumbs/post/guitarist-400.jpg'
 import beetle from './../../../assets/thumbs/post/beetle-400.jpg'
-// import fuji from './../../../assets/thumbs/post/fuji-400.jpg'
-// import jump from './../../../assets/thumbs/post/jump-400.jpg'
 
 function FeaturedSection() {
     return (
