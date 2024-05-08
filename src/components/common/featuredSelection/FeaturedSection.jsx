@@ -1,8 +1,8 @@
 import s from './FeaturedSection.module.css'
-import lamp from './../../../assets/thumbs/post/lamp-400.jpg'
-import avian from './../../../assets/thumbs/post/avian-400.jpg'
-import guitarist from './../../../assets/thumbs/post/guitarist-400.jpg'
-import beetle from './../../../assets/thumbs/post/beetle-400.jpg'
+import borovets from './../../../assets/thumbs/on-bike/borovets-brothers.jpeg'
+import rideWithSashko from './../../../assets/thumbs/on-bike/ride-with-sashko.jpeg'
+import aptRide from './../../../assets/thumbs/on-bike/apt-ride.jpeg'
+import bianchiAtHome from './../../../assets/thumbs/bike/bianchi-at-home.jpeg'
 
 function FeaturedSection() {
     return (
@@ -10,38 +10,38 @@ function FeaturedSection() {
             <div className={s.section_entries}>
                 <div className={s.section_entry}>
                     <a href="">
-                        <img src={lamp} alt="lamp"/>
+                        <img src={borovets} alt="borovets"/>
                     </a>
-                    <h3 className={s.section_entry_cat}>Design</h3>
-                    <h2 className={s.section_entry_title}>3 Benefits of Minimalism In Interior Design.</h2>
+                    <a href={""} className={s.section_entry_cat}>Design</a>
+                    <h2 className={s.section_entry_title}>3 Benefits of Minimalism In Design.</h2>
                     <h3 className={s.section_entry_date}>June 15, 2018</h3>
                 </div>
 
                 <div className={s.section_entry}>
                     <a href="">
-                        <img src={avian} alt="avian"/>
+                        <img src={rideWithSashko} alt="rideWithSashko"/>
                     </a>
-                    <h3 className={s.section_entry_cat}>Design</h3>
-                    <h2 className={s.section_entry_title}>What Your Music Preference Says About You and Your Personality.</h2>
+                    <h3 className={s.section_entry_cat}>Bikes</h3>
+                    <h2 className={s.section_entry_title}>Best road bike routes around Lviv.</h2>
                     <h3 className={s.section_entry_date}>June 15, 2018</h3>
                 </div>
 
                 <div className={s.section_entry}>
                     <a href="">
-                        <img src={guitarist} alt="guitarist"/>
+                        <img src={aptRide} alt="aptRide"/>
                     </a>
-                    <h3 className={s.section_entry_cat}>Design</h3>
-                    <h2 className={s.section_entry_title}>3 Benefits of Minimalism In Interior Design.</h2>
+                    <h3 className={s.section_entry_cat}>Travel</h3>
+                    <h2 className={s.section_entry_title}>Where to go in Lviv</h2>
                     <h3 className={s.section_entry_date}>June 15, 2018</h3>
                 </div>
 
                 <div className={s.section_entry}>
                     <a href="">
-                        <img src={beetle} alt="beetle"/>
+                        <img src={bianchiAtHome} alt="bianchiAtHome"/>
                     </a>
-                    <h3 className={s.section_entry_cat}>Design</h3>
-                    <h2 className={s.section_entry_title}>3 Benefits of Minimalism In Interior Design.</h2>
-                    <h3 className={s.section_entry_date}>June 15, 2018</h3>
+                    <h3 className={s.section_entry_cat}>Bikes</h3>
+                    <h2 className={s.section_entry_title}>How I build my bike.</h2>
+                    <h3 className={s.section_entry_date}>June 15, 2024</h3>
                 </div>
             </div>
         </section>

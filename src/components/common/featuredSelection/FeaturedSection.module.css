@@ -11,26 +11,28 @@
     column-gap: 15px;
     row-gap: 40px;
     text-align: center;
-    /*background-color: cornflowerblue;*/
 }
 
 .section_entry {
     background-color: #FFFFFF;
-    box-shadow: 2px 2px 2px 2px #cccccc;
-    transition: transform .5s;
+    box-shadow: 1px 1px 1px 1px #cccccc;
+    transition: transform .5s, box-shadow .5s;
 }
 
 .section_entry:hover {
     transform: scale(1.05);
+    box-shadow: 3px 3px 3px 3px #cccccc;
 }
 
 .section_entry img {
-    width: 350px;
+    width: 400px;
     display: inline-block;
     margin-bottom: 20px;
 }
 
 .section_entry_cat {
+    display: block;
+    text-decoration: none;
     text-transform: uppercase;
     letter-spacing: 2px;
     font-weight: 500;
@@ -54,5 +56,4 @@
     color: #999999;
     font-size: 14px;
     margin-bottom: 20px;
-
 }
