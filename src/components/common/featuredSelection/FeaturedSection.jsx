@@ -13,7 +13,7 @@ function FeaturedSection() {
                         <img src={borovets} alt="borovets"/>
                     </a>
                     <a href={""} className={s.section_entry_cat}>Design</a>
-                    <h2 className={s.section_entry_title}>3 Benefits of Minimalism In Design.</h2>
+                    <h2 className={s.section_entry_title}>Benefits of Minimalism in Design</h2>
                     <h3 className={s.section_entry_date}>June 15, 2018</h3>
                 </div>
 
@@ -22,7 +22,7 @@ function FeaturedSection() {
                         <img src={rideWithSashko} alt="rideWithSashko"/>
                     </a>
                     <h3 className={s.section_entry_cat}>Bikes</h3>
-                    <h2 className={s.section_entry_title}>Best road bike routes around Lviv.</h2>
+                    <h2 className={s.section_entry_title}>Best road bike routes around Lviv</h2>
                     <h3 className={s.section_entry_date}>June 15, 2018</h3>
                 </div>
 
@@ -31,7 +31,7 @@ function FeaturedSection() {
                         <img src={aptRide} alt="aptRide"/>
                     </a>
                     <h3 className={s.section_entry_cat}>Travel</h3>
-                    <h2 className={s.section_entry_title}>Where to go in Lviv</h2>
+                    <h2 className={s.section_entry_title}>Lviv</h2>
                     <h3 className={s.section_entry_date}>June 15, 2018</h3>
                 </div>
 
@@ -40,7 +40,7 @@ function FeaturedSection() {
                         <img src={bianchiAtHome} alt="bianchiAtHome"/>
                     </a>
                     <h3 className={s.section_entry_cat}>Bikes</h3>
-                    <h2 className={s.section_entry_title}>How I build my bike.</h2>
+                    <h2 className={s.section_entry_title}>Building a race bike</h2>
                     <h3 className={s.section_entry_date}>June 15, 2024</h3>
                 </div>
             </div>
