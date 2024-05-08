@@ -3,6 +3,10 @@
 Blog website written using React working in Vite with HMR and some ESLint rules. <br />
 Was created using `npm create vite@latest peboblog -- --template react`
 
+
+<img width="1710" alt="Screenshot 2024-05-08 at 13 55 13" src="https://github.com/petroborovets/peboblog/assets/6223083/6e598fec-f124-46ad-92f3-b895d8f38fc3">
+
+
 ### Pre-requirements:
 1. Install homebrew by running: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`.
 2. Install nvm, check doc: https://github.com/nvm-sh/nvm?tab=readme-ov-file#install--update-script.
