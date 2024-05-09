@@ -4,28 +4,28 @@
       "id": 1,
       "date": "June 15, 2024",
       "category": 1,
-      "image": "./borovets-brothers.jpeg",
+      "image": "borovets-brothers.jpeg",
       "title": "Building our Website"
     },
     {
       "id": 2,
       "date": "June 15, 2024",
       "category": 2,
-      "image": "./bianchi-at-home.jpeg",
+      "image": "bianchi-at-home.jpeg",
       "title": "Building a race bike"
     },
     {
       "id": 3,
       "date": "June 15, 2024",
       "category": 4,
-      "image": "./apt-ride.jpeg",
+      "image": "apt-ride.jpeg",
       "title": "Exploring Lviv"
     },
     {
       "id": 4,
       "date": "June 15, 2024",
       "category": 2,
-      "image": "./ride-with-sashko.jpeg",
+      "image": "ride-with-sashko.jpeg",
       "title": "Best road bike routes around Lviv"
     }
   ]
