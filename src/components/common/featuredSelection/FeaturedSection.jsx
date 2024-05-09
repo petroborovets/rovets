@@ -4,8 +4,10 @@ import FeaturedSectionEntry from "./featuredSectionEntry/FeaturedSectionEntry.js
 
 import postsJson from './../../../constants/posts.json';
 
-function FeaturedSection() {
-    const posts = postsJson.posts;
+function FeaturedSection(props) {
+    // eslint-disable-next-line react/prop-types
+    const {categoryId} = props
+    const posts = postsJson.posts?.filter(post => categoryId ? post.category === categoryId : true);
     return (
         <div className={s.section}>
             {
@@ -15,8 +17,8 @@ function FeaturedSection() {
                                           image={post.image}
                                           category={post.category}
                                           title={post.title}
-                                          date={post.date}>
-                    </FeaturedSectionEntry>
+                                          date={post.date}
+                    />
                 )
             }
         </div>

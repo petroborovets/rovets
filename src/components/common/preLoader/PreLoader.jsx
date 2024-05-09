@@ -1,3 +1,4 @@
+import s from './PreLoader.module.css';
 import { useState, useEffect } from "react";
 
 /**
@@ -17,15 +18,8 @@ function PreLoader() {
 
   return (
     isLoading && (
-      <>
-        <div id="preloader">
-          <div id="loader" className="dots-fade">
-            <div></div>
-            <div></div>
-            <div></div>
-          </div>
+        <div className={s.pre_loader}>
         </div>
-      </>
     )
   );
 }
