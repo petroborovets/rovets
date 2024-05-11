@@ -13,6 +13,10 @@ const router = createHashRouter([
         element: <MainPageLayout/>,
         children: [
             {
+                path: '/',
+                element: <HomePage/>,
+            },
+            {
                 path: '/rovets',
                 element: <HomePage/>,
             },
