@@ -2,6 +2,32 @@
   "posts": [
     {
       "id": 1,
+      "date": "April 23, 2024",
+      "category": 1,
+      "image": "borovets-brothers.jpeg",
+      "title": "Building our Website",
+      "author": "Petro Borovets",
+      "hoursOnCalls": "5",
+      "headSection": {
+        "headingText": "Отже, тут буде коротка історія того як сайт будується або будувався. Так як молодший брат FE дев, а старший брат BE дев, початкова задумка була така, що, молодший практикується у BE частині, а старший брат у FE частині, таким чином перебираючи досвід один в одного, а як складеться чи склалось в результаті - напишу потім :). Мені завжди було цікаво завести сайтик на якому можна буде документувати щось корисне для себе у вигляді фото і тексту, щоб потім можна було із ностальгією перечитувати і згадувати, як то було, такий собі щоденник.",
+        "headingSubText": ""
+      },
+      "sections": [
+        {
+          "id": 1,
+          "heading": "Трішки цікавої статистики",
+          "children": [
+            {
+              "id": 1,
+              "type": "list",
+              "value": ["Total developing time: 6 days","Hours on calls between brothers: 6h", "Number of main branch PRs: 8"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
       "date": "June 15, 2024",
       "category": 4,
       "image": "brela/borovets-family-brela-mirror.jpeg",
@@ -59,21 +85,6 @@
             }
           ]
         }
-      ]
-    },
-    {
-      "id": 2,
-      "date": "June 10, 2024",
-      "category": 1,
-      "image": "borovets-brothers.jpeg",
-      "title": "Building our Website",
-      "author": "Petro Borovets",
-      "hoursOnCalls": "5",
-      "headSection": {
-        "headingText": "What are you doing here my friend?",
-        "headingSubText": "Dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue laboris in sit minim cupidatat ut dolor voluptate enim veniam consequat occaecat fugiat in adipisicing in amet Ut nulla nisi non ut enim aliqua laborum mollit quis nostrud sed sed."
-      },
-      "sections": [
       ]
     },
     {
