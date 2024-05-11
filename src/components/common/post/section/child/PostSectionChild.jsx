@@ -8,7 +8,7 @@ const List = ({sectionChild}) => (
     <ul>
         {
             sectionChild.value?.map(li =>
-                <li className={s.post_section_list_child} key={li}>{li}</li>
+                <li className={s.post_section_list_child} key={li} dangerouslySetInnerHTML={{__html: li}}/>
             )
         }
     </ul>

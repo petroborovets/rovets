@@ -15,12 +15,23 @@
       "sections": [
         {
           "id": 1,
-          "heading": "Трішки цікавої статистики",
+          "heading": "Interesting facts",
           "children": [
             {
               "id": 1,
               "type": "list",
-              "value": ["Total developing time: 6 days","Hours on calls between brothers: 6h", "Number of main branch PRs: 8"]
+              "value": ["Total developing time: 7 days","Hours on calls between brothers: 7h", "Number of main branch PRs: 10"]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "heading": "Issues we faced during development",
+          "children": [
+            {
+              "id": 1,
+              "type": "list",
+              "value": ["Marriage of React Browser Router with Github Pages, you can read details on issue here: <a href=\"https://stackoverflow.com/questions/46056414/getting-404-for-links-with-create-react-app-deployed-to-github-pages\" target=\"_blank\">StackOverflow<a/>. Solution is to use Reacts Hash Router, it is not the most beautiful solution, as it makes browser URLs a bit messy, but it works: <a href=\"https://reactrouter.com/en/main/routers/create-hash-router\" target=\"_blank\">www.reactrouter.com<a/>."]
             }
           ]
         }

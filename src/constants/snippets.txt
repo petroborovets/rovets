@@ -1,0 +1,17 @@
+<a href="" target="_blank"><a/>
+
+{
+  "id": 1,
+  "date": "April 23, 2024",
+  "category": 1,
+  "image": "",
+  "title": "Title",
+  "author": "Petro Borovets",
+  "headSection": {
+    "headingText": "",
+    "headingSubText": ""
+  },
+  "sections": [
+
+  ]
+}
