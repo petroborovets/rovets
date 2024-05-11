@@ -1,1 +1,1 @@
-export const ORIGIN_URL = window.location.origin + "/pebo/"
+export const ORIGIN_URL = window.location.origin + "/rovets/"

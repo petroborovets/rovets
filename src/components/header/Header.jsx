@@ -11,11 +11,11 @@ function Header() {
 
     return (
         <header className={s.header}>
-            <Link to="/pebo/" className={s.header_logo}>ROVETS</Link>
+            <Link to="/rovets/" className={s.header_logo}>ROVETS</Link>
             <nav className={s.header_nav}>
                 <ul>
                     <li className={s.header_nav_li}>
-                        <Link className={s.header_nav_li_link} to="/pebo/" title="">Home</Link>
+                        <Link className={s.header_nav_li_link} to="/rovets/" title="">Home</Link>
                     </li>
 
                     <li className={s.header_nav_li}>
@@ -24,7 +24,7 @@ function Header() {
                             <div className={s.header_nav_li_dropdown_content}>
                                 {categories.map(cat =>
                                     <Link key={cat.id} className={s.header_nav_li_dropdown_content_link}
-                                          to={"/pebo/category/" + cat.id} title="">{cat.name}</Link>
+                                          to={"/rovets/category/" + cat.id} title="">{cat.name}</Link>
                                 )}
                             </div>
                             {/*<span className={s.header_nav_li_with_children}>↓</span>*/}
@@ -34,7 +34,7 @@ function Header() {
                     </li>
 
                     <li className={s.header_nav_li}>
-                        <Link className={s.header_nav_li_link} to="/pebo/about" title="">About</Link>
+                        <Link className={s.header_nav_li_link} to="/rovets/about" title="">About</Link>
                     </li>
 
                     {/*<li className={s.header_nav_li}>*/}
@@ -48,7 +48,7 @@ function Header() {
             <a className={s.header_search}></a>
             */}
 
-            <Link className={s.header_contact} to="/pebo/contact" title="">Contact</Link>
+            <Link className={s.header_contact} to="/rovets/contact" title="">Contact</Link>
 
         </header>
     );

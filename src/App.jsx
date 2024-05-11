@@ -13,24 +13,24 @@ const router = createHashRouter([
         element: <MainPageLayout/>,
         children: [
             {
-                path: '/pebo',
+                path: '/rovets',
                 element: <HomePage/>,
             },
             {
-                path: '/pebo/about',
+                path: '/rovets/about',
                 element: <AboutPage/>,
             },
             {
-                path: '/pebo/contact',
+                path: '/rovets/contact',
                 element: <ContactPage/>,
             },
             {
-                path: '/pebo/post/:id',
+                path: '/rovets/post/:id',
                 element: <PostPage/>
             }
             ,
             {
-                path: '/pebo/category/:id',
+                path: '/rovets/category/:id',
                 element: <CategoryPage/>
             }
         ],
