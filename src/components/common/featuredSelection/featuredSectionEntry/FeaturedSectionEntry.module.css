@@ -3,6 +3,7 @@
     box-shadow: 1px 1px 15px 0 rgba(0, 0, 0, 0.3);
     transition: transform 0.5s, box-shadow 0.5s;
     position: relative;
+    z-index: 5;
 }
 
 .section_entry:hover {

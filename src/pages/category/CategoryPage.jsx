@@ -9,7 +9,7 @@ function CategoryPage() {
     const category = categoriesJson.categories?.filter(c => c.id == id)[0]
 
     return <>
-        <h1 className={s.category_page_header}>{category?.name}</h1>
+        <h1 className={s.category_page_header}>Category: {category?.name}</h1>
         <FeaturedSection categoryId={parseInt(id)} />
     </>
 }
