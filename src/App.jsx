@@ -13,24 +13,24 @@ const router = createBrowserRouter([
         element: <MainPageLayout/>,
         children: [
             {
-                path: '/pebo',
+                path: '/',
                 element: <HomePage/>,
             },
             {
-                path: '/pebo/about',
+                path: '/about',
                 element: <AboutPage/>,
             },
             {
-                path: '/pebo/contact',
+                path: '/contact',
                 element: <ContactPage/>,
             },
             {
-                path: '/pebo/post/:id',
+                path: '/post/:id',
                 element: <PostPage/>
             }
             ,
             {
-                path: '/pebo/category/:id',
+                path: '/category/:id',
                 element: <CategoryPage/>
             }
         ],

@@ -1,7 +1,7 @@
 # ROVETS
 
 Blog website written using React working in Vite with HMR and some ESLint rules. <br />
-Was created using `npm create vite@latest peboblog -- --template react`
+Was created using `npm create vite@latest rovets -- --template react`
 
 Hosted on GitHub Pages: https://petroborovets.github.io/pebo/
 
