@@ -1,22 +1,40 @@
 import s from './Header.module.css'
 import {Link} from "react-router-dom";
 
+import caterotiesJson from "../../constants/categories.json";
+
 function Header() {
+
+    const {categories} = caterotiesJson;
+
+    console.log(categories);
+
     return (
         <header className={s.header}>
             <Link to="/pebo/" className={s.header_logo}>PeBo</Link>
             <nav className={s.header_nav}>
                 <ul>
                     <li className={s.header_nav_li}>
-                        <Link to="/pebo/" title="">Home</Link>
-                    </li>
-
-                    <li className={s.header_nav_li}><a href="" title="">Categories</a>
-                        <span className={s.header_nav_li_with_children}>↓</span>
+                        <Link className={s.header_nav_li_link} to="/pebo/" title="">Home</Link>
                     </li>
 
                     <li className={s.header_nav_li}>
-                        <Link to="/pebo/about" title="">About</Link>
+                        <div className={s.header_nav_li_dropdown}>
+                            <p className={s.header_nav_li_link}>Categories</p>
+                            <div className={s.header_nav_li_dropdown_content}>
+                                {categories.map(cat =>
+                                    <Link key={cat.id} className={s.header_nav_li_dropdown_content_link}
+                                          to={"/pebo/category/" + cat.id} title="">{cat.name}</Link>
+                                )}
+                            </div>
+                            {/*<span className={s.header_nav_li_with_children}>↓</span>*/}
+                        </div>
+
+
+                    </li>
+
+                    <li className={s.header_nav_li}>
+                        <Link className={s.header_nav_li_link} to="/pebo/about" title="">About</Link>
                     </li>
 
                     {/*<li className={s.header_nav_li}>*/}

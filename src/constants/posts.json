@@ -17,17 +17,17 @@
           "heading": "Section 1 Heading",
           "children": [
             {
-              "id": "1",
+              "id": 1,
               "type": "paragraph",
               "value": "Harum quidem <a href=\"http://www.apple.com\" target=\"_blank\" >Apple<a/> rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus omnis voluptas assumenda est id quod maxime placeat facere possimus, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et."
             },
             {
-              "id": "2",
+              "id": 2,
               "type": "image",
               "value": "brela/brela-shore.jpeg"
             },
             {
-              "id": "3",
+              "id": 3,
               "type": "paragraph",
               "value": "Harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus omnis voluptas assumenda est id quod maxime placeat facere possimus, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et."
             }
@@ -38,9 +38,14 @@
           "heading": "Section 2 Heading",
           "children": [
             {
-              "id": "1",
+              "id": 1,
               "type": "paragraph",
               "value": "Harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus omnis voluptas assumenda est id quod maxime placeat facere possimus, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et."
+            },
+            {
+              "id": 1,
+              "type": "paragraph",
+              "value": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur consequatur ipsa natus nesciunt non quasi quia repellat sed vitae? Dolore earum ipsam officiis quod ut, vero voluptatem voluptatibus. Enim, pariatur! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur consequatur ipsa natus nesciunt non quasi quia repellat sed vitae? Dolore earum ipsam officiis quod ut, vero voluptatem voluptatibus. Enim, pariatur!"
             },
             {
               "id": 2,
@@ -77,7 +82,7 @@
       "category": 2,
       "image": "bianchi-at-home.jpeg",
       "title": "Building a race bike",
-      "author": "",
+      "author": "Petro Borovets",
       "sections": [
       ]
     },
@@ -87,17 +92,17 @@
       "category": 4,
       "image": "apt-ride.jpeg",
       "title": "Exploring Lviv",
-      "author": "",
+      "author": "Andrew Borovets",
       "sections": [
       ]
     },
     {
       "id": 5,
-      "date": "Jan 4, 2024",
-      "category": 2,
-      "image": "ride-with-sashko.jpeg",
-      "title": "Best road bike routes around Lviv",
-      "author": "",
+      "date": "May 1, 2024",
+      "category": 4,
+      "image": "brela/brela-stone.jpeg",
+      "title": "Brela, Croatia",
+      "author": "Sofi",
       "sections": [
       ]
     }

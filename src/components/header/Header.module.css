@@ -1,20 +1,20 @@
 .header {
-    background-color: #FFFFFF;
+    background-color: #f2f2f2;
     width: 100%;
     top: 0;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 15px 30px;
     box-sizing: border-box;
-    margin-bottom: 10px;
+    height: 50px;
+    padding: 0 30px;
 }
 
 .header_logo {
     letter-spacing: 2px;
-    font-weight: 900;
-    font-size: 30px;
-    color: #555555;
+    font-weight: 600;
+    font-size: 20px;
+    color: rgba(0, 0, 0, .6);
     transition: transform .5s;
     text-decoration: none;
 }
@@ -28,42 +28,81 @@
 .header_nav {
     text-transform: uppercase;
     letter-spacing: 2px;
-    font-size: 11px;
+    font-size: 12px;
     font-weight: 500;
-    color: #999999;
+    height: 100%;
+    width: 100%;
+    margin: 0 auto;
+    max-width: 400px;
+    padding: 0 40px;
+}
+
+.header_nav ul {
+    height: 100%;
+    display: flex;
+    max-width: 900px;
+    width: 100%;
+    justify-content: space-around;
 }
 
 .header_nav_li {
-    position: relative;
-    display: inline-block;
-    padding: 0 2.5rem;
+    display: flex;
+    align-items: center;
+    height: 100%;
     transition: transform .5s;
 }
 
-.header_nav_li:hover {
-    transform: scale(1.1);
+.header_nav_li:hover .header_nav_li_dropdown_content {
+    visibility: visible;
+}
+
+.header_nav_li:hover .header_nav_li_link{
     color: #111111;
+    transform: scale(1.1);
 }
 
-.header_nav_li > a {
-    color: #000000;
+.header_nav_li_dropdown {
+    position: relative;
+    /*min-width: 100px;*/
+}
+
+.header_nav_li_link {
     text-decoration: none;
-}
-
-.header_nav_li_with_children {
-    position: absolute;
-    display: inline-block;
-    right: 25px;
+    color: rgba(0, 0, 0, .6);
     transition: transform .5s;
 }
 
-.header_nav_li:hover > .header_nav_li_with_children {
-    transform: rotateX(180deg);
-    bottom: 1px;
+.header_nav_li_dropdown_content {
+    visibility: hidden;
+    position: absolute;
+    text-align: center;
+    background-color: #f2f2f2;
+    left: -85%;
+    top: 2rem;
+    box-shadow: 1px 1px 10px 5px rgba(0, 0, 0, 0.1);
+    z-index: 9;
+    min-width: 250px;
+}
+
+.header_nav_li_dropdown_content_link {
+    text-transform: none;
+    letter-spacing: 2px;
+    /*font-weight: 600;*/
+    font-size: 12px;
+    display: block;
+    text-decoration: none;
+    padding: 10px 15px;
+    color: rgba(0, 0, 0, .6);
+    min-width: 100px;
+    transition: transform .5s;
+}
+
+.header_nav_li_dropdown_content_link:hover {
+    color: #111111;
+    transform: scale(1.2);
 }
 
 .header_contact {
-    /*height: 20px;*/
     text-decoration: none;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -75,7 +114,8 @@
 
 .header_contact:hover {
     transform: scale(1.1);
-    color: #111111;
+    color: rgba(0, 0, 0, .6);
+    letter-spacing: 2px;
 }
 
 /* Commenting out search until it is implemented*/
