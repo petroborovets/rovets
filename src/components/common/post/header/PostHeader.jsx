@@ -14,7 +14,7 @@ function PostHeader(props) {
             <h1 className={s.post_page_header_title}>{post.title}</h1>
             <ul className={s.post_page_header_author}>
                 <li>{post.date}</li>
-                <li>By <Link className={s.post_page_header_author_link} to={"/pebo/"}>{post.author}</Link></li>
+                <li>By <Link className={s.post_page_header_author_link} to={"/"}>{post.author}</Link></li>
             </ul>
             <p className={s.post_page_header_head_section_heading_text}>{post.headSection?.headingText}</p>
             <p className={postStyles.post_page_paragraph_text}>{post.headSection?.headingSubText}</p>
