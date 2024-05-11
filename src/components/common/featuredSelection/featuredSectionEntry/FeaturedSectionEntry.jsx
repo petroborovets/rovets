@@ -7,7 +7,7 @@ import {Link} from "react-router-dom";
 /* eslint-disable react/prop-types */
 function FeaturedSectionEntry(props) {
     const {id, image, category, title, date} = props
-    const categoryName = categoriesJson?.categories?.filter(c => c.id === category)[0]?.name || 'Unknown Category';
+    const categoryName = categoriesJson?.categories?.filter(c => c.id === category)[0]?.name;
 
     return (
         <div className={s.section_entry}>

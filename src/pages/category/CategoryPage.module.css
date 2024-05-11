@@ -1,0 +1,8 @@
+.category_page_header {
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+    font-size: 3rem;
+    letter-spacing: .15rem;
+    margin-top: 40px;
+    color: rgba(0, 0, 0, 0.8);
+}

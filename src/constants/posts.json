@@ -3,30 +3,103 @@
     {
       "id": 1,
       "date": "June 15, 2024",
-      "category": 1,
-      "image": "borovets-brothers.jpeg",
-      "title": "Building our Website"
+      "category": 4,
+      "image": "brela/borovets-family-brela-mirror.jpeg",
+      "title": "Places we have been",
+      "author": "Petro Borovets",
+      "headSection": {
+        "headingText": "Dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue laboris in sit minim cupidatat ut dolor voluptate enim veniam consequat occaecat fugiat in adipisicing in amet Ut nulla nisi non ut enim aliqua laborum mollit quis nostrud sed sed.",
+        "headingSubText": "Dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue laboris in sit minim cupidatat ut dolor voluptate enim veniam consequat occaecat fugiat in adipisicing in amet Ut nulla nisi non ut enim aliqua laborum mollit quis nostrud sed sed."
+      },
+      "sections": [
+        {
+          "id": 1,
+          "heading": "Section 1 Heading",
+          "children": [
+            {
+              "id": "1",
+              "type": "paragraph",
+              "value": "Harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus omnis voluptas assumenda est id quod maxime placeat facere possimus, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et."
+            },
+            {
+              "id": "2",
+              "type": "image",
+              "value": "brela/brela-shore.jpeg"
+            },
+            {
+              "id": "3",
+              "type": "paragraph",
+              "value": "Harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus omnis voluptas assumenda est id quod maxime placeat facere possimus, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "heading": "Section 2 Heading",
+          "children": [
+            {
+              "id": "1",
+              "type": "paragraph",
+              "value": "Harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus omnis voluptas assumenda est id quod maxime placeat facere possimus, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et."
+            },
+            {
+              "id": 2,
+              "type": "list",
+              "value": ["List item 1", "List item 2"]
+            },
+            {
+              "id": 3,
+              "type": "paragraph",
+              "value": "Harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus omnis voluptas assumenda est id quod maxime placeat facere possimus, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et."
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 2,
-      "date": "June 15, 2024",
-      "category": 2,
-      "image": "bianchi-at-home.jpeg",
-      "title": "Building a race bike"
+      "date": "June 10, 2024",
+      "category": 1,
+      "image": "borovets-brothers.jpeg",
+      "title": "Building our Website",
+      "author": "Petro Borovets",
+      "hoursOnCalls": "5",
+      "headSection": {
+        "headingText": "What are you doing here my friend?",
+        "headingSubText": "Dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue laboris in sit minim cupidatat ut dolor voluptate enim veniam consequat occaecat fugiat in adipisicing in amet Ut nulla nisi non ut enim aliqua laborum mollit quis nostrud sed sed."
+      },
+      "sections": [
+      ]
     },
     {
       "id": 3,
-      "date": "June 15, 2024",
-      "category": 4,
-      "image": "apt-ride.jpeg",
-      "title": "Exploring Lviv"
+      "date": "Jul 15, 2024",
+      "category": 2,
+      "image": "bianchi-at-home.jpeg",
+      "title": "Building a race bike",
+      "author": "",
+      "sections": [
+      ]
     },
     {
       "id": 4,
-      "date": "June 15, 2024",
+      "date": "May 1, 2024",
+      "category": 4,
+      "image": "apt-ride.jpeg",
+      "title": "Exploring Lviv",
+      "author": "",
+      "sections": [
+      ]
+    },
+    {
+      "id": 5,
+      "date": "Jan 4, 2024",
       "category": 2,
       "image": "ride-with-sashko.jpeg",
-      "title": "Best road bike routes around Lviv"
+      "title": "Best road bike routes around Lviv",
+      "author": "",
+      "sections": [
+      ]
     }
   ]
 }

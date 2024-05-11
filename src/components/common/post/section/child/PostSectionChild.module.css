@@ -1,0 +1,21 @@
+.post_section_child {
+    margin-top: 30px;
+    font-family: "Nunito Sans", sans-serif;
+    font-weight: 300;
+    line-height: 2;
+    letter-spacing: 1px;
+    font-size: 1rem;
+}
+
+.post_section_img_child {
+    max-width: 100%;
+}
+
+
+.post_section_paragraph_child {
+
+}
+
+.post_section_list_child {
+    margin-left: 20px;
+}
