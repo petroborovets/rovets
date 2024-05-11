@@ -3,7 +3,7 @@ import PostSectionChild from "./child/PostSectionChild.jsx";
 
 /* eslint-disable react/prop-types */
 function PostSection(props) {
-    const section = props.section;
+    const {section} = props;
 
     return (
         <>
