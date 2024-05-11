@@ -5,7 +5,7 @@ Was created using `npm create vite@latest rovets -- --template react`
 
 Hosted on GitHub Pages: https://petroborovets.github.io/rovets/
 
-<img width="1710" alt="Screenshot 2024-05-08 at 13 55 13" src="https://github.com/petroborovets/peboblog/assets/6223083/6e598fec-f124-46ad-92f3-b895d8f38fc3">
+<img width="1710" alt="Screenshot 2024-05-12 at 01 31 02" src="https://github.com/petroborovets/rovets/assets/6223083/dd30c066-8a5e-4a19-a007-c47160dad045">
 
 
 ### Pre-requirements:
