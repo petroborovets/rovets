@@ -16,6 +16,9 @@
     font-size: 4rem;
     letter-spacing: -.15rem;
     margin-bottom: 10px;
+    padding-bottom: 20px;
+    color: rgba(0, 0, 0, 0.8);
+    border-bottom: rgba(0, 0, 0, 0.8) solid 1px;
 }
 
 .post_page_header_author {
@@ -23,6 +26,7 @@
     color: rgba(0, 0, 0, 0.5);
     text-transform: uppercase;
     letter-spacing: .25rem;
+    margin-top: 20px;
     margin-bottom: 40px;
 }
 
