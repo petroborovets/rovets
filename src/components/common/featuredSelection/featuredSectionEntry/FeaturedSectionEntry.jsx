@@ -11,10 +11,10 @@ function FeaturedSectionEntry(props) {
 
     return (
         <div className={s.section_entry}>
-            <Link to={"/post/" + id}>
+            <Link to={"/pebo/post/" + id}>
                 <img src={ORIGIN_URL + image} alt="photo"/>
             </Link>
-            <Link to={"/category/" + category} className={s.section_entry_cat}>{categoryName}</Link>
+            <Link to={"/pebo/category/" + category} className={s.section_entry_cat}>{categoryName}</Link>
             <h2 className={s.section_entry_title}>{title}</h2>
             <span className={s.section_entry_date}>{date}</span>
         </div>
