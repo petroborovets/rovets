@@ -11,7 +11,7 @@ function Header() {
 
     return (
         <header className={s.header}>
-            <Link to="/pebo/" className={s.header_logo}>PeBo</Link>
+            <Link to="/pebo/" className={s.header_logo}>ROVETS</Link>
             <nav className={s.header_nav}>
                 <ul>
                     <li className={s.header_nav_li}>

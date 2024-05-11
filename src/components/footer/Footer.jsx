@@ -4,8 +4,8 @@ function Footer() {
     return (
         <footer className={s.footer}>
             <div className={s.footer_left}>
-                <h3 className={s.footer_left_about_title}>About PeBo</h3>
-                <p className={s.footer_left_about_description}>PeBo was developed using React by Borovets brothers.
+                <h3 className={s.footer_left_about_title}>About ROVETS</h3>
+                <p className={s.footer_left_about_description}>ROVETS was developed using React by Borovets brothers.
                     <br/> Visit <a className={s.footer_about_description_ghub} target="_blank"
                              href="https://github.com/petroborovets/pebo">GitHub</a> for details.</p>
             </div>
