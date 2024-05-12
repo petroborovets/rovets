@@ -20,14 +20,13 @@ function Header() {
 
                     <li className={s.header_nav_li}>
                         <div className={s.header_nav_li_dropdown}>
-                            <p className={s.header_nav_li_link}>Categories</p>
+                            <p className={s.header_nav_li_link_category}>Categories</p>
                             <div className={s.header_nav_li_dropdown_content}>
                                 {categories.map(cat =>
                                     <Link key={cat.id} className={s.header_nav_li_dropdown_content_link}
                                           to={"/rovets/category/" + cat.id} title="">{cat.name}</Link>
                                 )}
                             </div>
-                            {/*<span className={s.header_nav_li_with_children}>↓</span>*/}
                         </div>
 
 
