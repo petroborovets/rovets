@@ -45,8 +45,8 @@
       "title": "Places we have been",
       "author": "Petro Borovets",
       "headSection": {
-        "headingText": "Dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue laboris in sit minim cupidatat ut dolor voluptate enim veniam consequat occaecat fugiat in adipisicing in amet Ut nulla nisi non ut enim aliqua laborum mollit quis nostrud sed sed.",
-        "headingSubText": "Dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue laboris in sit minim cupidatat ut dolor voluptate enim veniam consequat occaecat fugiat in adipisicing in amet Ut nulla nisi non ut enim aliqua laborum mollit quis nostrud sed sed."
+        "headingText": "Я чітко памятаю момент коли робив цю фотографію, хоч це було дуже давго. На вулиці була спека, повітря було настільки гарячим, що коли ти починав рухатись, здавалось що воно густіше ніж зазвичай, із кожним кроком, ти відчував як воно обгортає твою шкіру. Ми довго йшли і були втомлені. У момент фотографії вітер подув у спину, принісши із собою прохолодні краплинки із моря. Я відчув прилив енергії. ",
+        "headingSubText": "Ми йшли пішохідною стежкою Брели, вона там одна єдина і дуже довга, цікаво було подивитись чим вона закінчується."
       },
       "sections": [
         {
@@ -77,7 +77,7 @@
             {
               "id": 1,
               "type": "paragraph",
-              "value": "Коротка історія того як Софія любить красти каміння із берегів річок. Нашо? Я ще не зрозумів, але впевнений що тому є серйозне пояснення."
+              "value": "Коротке відео про то як Софія любить красти каміння із берегів річок. Нащо? - Я ще не зрозумів, але впевнений що в тому є глибокий сенс."
             },
             {
               "id": 2,
@@ -87,7 +87,7 @@
             {
               "id": 3,
               "type": "list",
-              "value": ["Камінь 1", "Камінь 2", "Спогади з річки опір"]
+              "value": ["Камінь 1", "Камінь 2", "Спогади з річки Опір"]
             },
             {
               "id": 4,
