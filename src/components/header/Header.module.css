@@ -8,6 +8,21 @@
     box-sizing: border-box;
     height: 50px;
     padding: 0 30px;
+    font-family: "Nunito Sans", sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: 500;
+    color: rgba(0, 0, 0, .6);
+}
+.header .header_nav_li_link {
+    color: rgba(0, 0, 0, .6);
+    text-decoration: none;
+}
+
+.header .header_contact {
+    color: rgba(0, 0, 0, .6);
+    text-decoration: none;
 }
 
 .header_logo {
@@ -67,9 +82,9 @@
 }
 
 .header_nav_li:hover .header_nav_li_link_category:after{
+    border-color: #111111;
     transform: rotate(229deg);
     margin-bottom: 1px;
-    border-color: #111111;
 }
 
 .header_nav_li_dropdown {
@@ -77,8 +92,6 @@
 }
 
 .header_nav_li_link {
-    text-decoration: none;
-    color: rgba(0, 0, 0, .6);
     transition: transform .5s
 }
 
@@ -131,18 +144,12 @@
 }
 
 .header_contact {
-    text-decoration: none;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    font-size: 12px;
-    font-weight: 500;
-    color: #999999;
     transition: transform .5s;
 }
 
 .header_contact:hover {
     transform: scale(1.1);
-    color: rgba(0, 0, 0, .6);
+    color: #111111;
     letter-spacing: 2px;
 }
 

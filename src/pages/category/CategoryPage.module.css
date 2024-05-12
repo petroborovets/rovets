@@ -6,6 +6,6 @@
     margin: 40px auto 20px;
     padding-bottom: 20px;
     color: rgba(0, 0, 0, 0.8);
-    border-bottom: rgba(0, 0, 0, 0.8) solid 1px;
+    border-bottom: rgba(0, 0, 0, 0.1) solid 1px;
     max-width: max-content;
 }
