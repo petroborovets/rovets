@@ -5,8 +5,8 @@ function ListPostSection({list}) {
     return (
         <ul>
             {
-                list?.map(li =>
-                    <li className={s.post_section_list_child} key={li} dangerouslySetInnerHTML={{__html: li}}/>
+                list?.map((li, index) =>
+                    <li className={s.post_section_list_child} key={li + index} dangerouslySetInnerHTML={{__html: li}}/>
                 )
             }
         </ul>
