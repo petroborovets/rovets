@@ -9,7 +9,7 @@
       "author": "Petro Borovets",
       "hoursOnCalls": "5",
       "headSection": {
-        "headingText": "Отже, тут буде коротка історія того як сайт будується або будувався. Так як молодший брат FE дев, а старший брат BE дев, початкова задумка була така, що, молодший практикується у BE частині, а старший брат у FE частині, таким чином перебираючи досвід один в одного, а як складеться чи склалось в результаті - напишу потім :). Мені завжди було цікаво завести сайтик на якому можна буде документувати щось корисне для себе у вигляді фото і тексту, щоб потім можна було із ностальгією перечитувати і згадувати, як то було, такий собі щоденник.",
+        "headingText": "Отже, тут буде коротка історія того як сайт будується або будувався. Так як молодший брат FE дев, а старший - BE дев, початкова задумка була така, що, молодший практикується у BE частині, а старший брат у FE частині, таким чином перебираючи досвід один в одного, а як складеться в результаті - напишу потім :). Мені завжди було цікаво завести сайтик на якому можна буде документувати щось корисне для себе і фіксувати враження подій, щоб потім можна було із ностальгією згадувати старі історії.",
         "headingSubText": ""
       },
       "sections": [
@@ -72,27 +72,27 @@
         },
         {
           "id": 2,
-          "heading": "Section 2 Heading",
+          "heading": "Opir river trip",
           "children": [
             {
               "id": 1,
               "type": "paragraph",
-              "value": "Harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus omnis voluptas assumenda est id quod maxime placeat facere possimus, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et."
-            },
-            {
-              "id": 1,
-              "type": "paragraph",
-              "value": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur consequatur ipsa natus nesciunt non quasi quia repellat sed vitae? Dolore earum ipsam officiis quod ut, vero voluptatem voluptatibus. Enim, pariatur! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur consequatur ipsa natus nesciunt non quasi quia repellat sed vitae? Dolore earum ipsam officiis quod ut, vero voluptatem voluptatibus. Enim, pariatur!"
+              "value": "Коротка історія того як Софія любить красти каміння із берегів річок. Нашо? Я ще не зрозумів, але впевнений що тому є серйозне пояснення."
             },
             {
               "id": 2,
-              "type": "list",
-              "value": ["List item 1", "List item 2"]
+              "type": "paragraph",
+              "value": "Трофеї поїздки:"
             },
             {
               "id": 3,
-              "type": "paragraph",
-              "value": "Harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus omnis voluptas assumenda est id quod maxime placeat facere possimus, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et."
+              "type": "list",
+              "value": ["Камінь 1", "Камінь 2", "Спогади з річки опір"]
+            },
+            {
+              "id": 4,
+              "type": "youtubeVideo",
+              "value": "https://www.youtube.com/embed/GeYrDlFPqYI?si=wbNhP3okocM3aUTj"
             }
           ]
         }

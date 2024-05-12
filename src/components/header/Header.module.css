@@ -11,7 +11,7 @@
     font-family: "Nunito Sans", sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    font-size: 12px;
+    font-size: 10px;
     font-weight: 500;
     color: rgba(0, 0, 0, .6);
 }
@@ -28,7 +28,7 @@
 .header_logo {
     letter-spacing: 2px;
     font-weight: 600;
-    font-size: 20px;
+    font-size: 18px;
     color: rgba(0, 0, 0, .6);
     transition: transform .5s;
     text-decoration: none;
@@ -43,13 +43,13 @@
 .header_nav {
     text-transform: uppercase;
     letter-spacing: 2px;
-    font-size: 12px;
+    font-size: 10px;
     font-weight: 500;
     height: 100%;
     width: 100%;
     margin: 0 auto;
-    max-width: 400px;
-    padding: 0 20px;
+    max-width: 450px;
+    padding: 0 15px;
 }
 
 .header_nav ul {
@@ -119,11 +119,11 @@
     position: absolute;
     text-align: center;
     background-color: #f2f2f2;
-    left: -66%;
+    left: -58%;
     top: 2rem;
     box-shadow: 1px 1px 10px 5px rgba(0, 0, 0, 0.1);
     z-index: 9;
-    min-width: 250px;
+    min-width: 200px;
 }
 
 .header_nav_li_dropdown_content_link {
