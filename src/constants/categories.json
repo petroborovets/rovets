@@ -10,22 +10,18 @@
     },
     {
       "id": 3,
-      "name": "Design"
-    },
-    {
-      "id": 4,
       "name": "Travel"
     },
     {
-      "id": 5,
+      "id": 4,
       "name": "Music"
     },
     {
-      "id": 6,
+      "id": 5,
       "name": "Family"
     },
     {
-      "id": 7,
+      "id": 6,
       "name": "Lifestyle"
     }
   ]
