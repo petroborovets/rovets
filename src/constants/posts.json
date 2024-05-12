@@ -51,7 +51,7 @@
       "sections": [
         {
           "id": 1,
-          "heading": "Section 1 Heading",
+          "heading": "Пішохідна стежка Брели",
           "children": [
             {
               "id": 1,
@@ -60,8 +60,41 @@
             },
             {
               "id": 2,
-              "type": "image",
-              "value": "brela/brela-shore.jpeg"
+              "type": "images",
+              "value": [
+                {
+                  "original": "https://petroborovets.github.io/rovets/brela/brela-stone.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/brela/brela-stone.jpeg"
+                },
+                {
+                  "original": "https://petroborovets.github.io/rovets/brela/route.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/brela/route.jpeg"
+                },
+                {
+                  "original": "https://petroborovets.github.io/rovets/brela/brela-boat.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/brela/brela-boat.jpeg"
+                },
+                {
+                  "original": "https://petroborovets.github.io/rovets/brela/brela-shore.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/brela/brela-shore.jpeg"
+                },
+                {
+                  "original": "https://petroborovets.github.io/rovets/brela/brela-tree.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/brela/brela-tree.jpeg"
+                },
+                {
+                  "original": "https://petroborovets.github.io/rovets/brela/brela-stone.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/brela/brela-stone.jpeg"
+                },
+                {
+                  "original": "https://petroborovets.github.io/rovets/brela/brela-tree-with-s.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/brela/brela-tree-with-s.jpeg"
+                },
+                {
+                  "original": "https://petroborovets.github.io/rovets/brela/borovets-family-brela-mirror.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/brela/borovets-family-brela-mirror.jpeg"
+                }
+              ]
             },
             {
               "id": 3,
