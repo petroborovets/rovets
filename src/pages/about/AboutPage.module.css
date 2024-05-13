@@ -1,0 +1,27 @@
+.about_page {
+    display: flex;
+    flex-direction: column;
+    max-width: 1000px;
+    padding: 20px;
+    margin: auto;
+    justify-content: space-around;
+}
+
+.about_page_header {
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+    font-size: 3rem;
+    letter-spacing: .1rem;
+    margin: 40px auto 30px;
+    padding-bottom: 20px;
+    color: rgba(0, 0, 0, 0.8);
+    border-bottom: rgba(0, 0, 0, 0.1) solid 1px;
+    max-width: max-content;
+}
+
+.about_page_header_subtext {
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+    letter-spacing: .1rem;
+    margin-bottom: 20px;
+}

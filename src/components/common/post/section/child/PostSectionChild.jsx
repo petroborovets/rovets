@@ -3,6 +3,7 @@ import ImagePostSection from "./image/ImagePostSection.jsx";
 import ListPostSection from "./list/ListPostSection.jsx";
 import ParagraphPostSection from "./paragraph/ParagraphPostSection.jsx";
 import YoutubeVideoPostSection from "./video/YoutubeVideoPostSection.jsx";
+import GoogleMap from "./map/GoogleMap.jsx";
 
 import ImageGallery from "react-image-gallery";
 import "react-image-gallery/styles/css/image-gallery.css";
@@ -13,6 +14,7 @@ const Paragraph = ({sectionChild}) => <ParagraphPostSection text={sectionChild.v
 const List = ({sectionChild}) => <ListPostSection list={sectionChild.value} />
 const YouTubeVideo = ({sectionChild}) => <YoutubeVideoPostSection videoSrc={sectionChild.value} />
 const Gallery = ({sectionChild}) => <ImageGallery additionalClass={s.gallery_section_child} items={sectionChild.value} />
+const Map = ({sectionChild}) => <GoogleMap mapSrc={sectionChild.value} />
 
 function PostSectionChild(props) {
     const {sectionChild} = props;
@@ -22,7 +24,8 @@ function PostSectionChild(props) {
         paragraph: Paragraph,
         list: List,
         youtubeVideo: YouTubeVideo,
-        images: Gallery
+        images: Gallery,
+        map: Map
     }
 
     const Component = renderMap[sectionChild.type] || null;
