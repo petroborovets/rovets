@@ -9,29 +9,29 @@
       "author": "Petro Borovets",
       "hoursOnCalls": "5",
       "headSection": {
-        "headingText": "Отже, тут буде коротка історія того як сайт будується або будувався. Так як молодший брат FE дев, а старший - BE дев, початкова задумка була така, що, молодший практикується у BE, а старший брат у FE, таким чином перебираючи досвід один в одного, а як складеться в результаті - напишу потім :). Мені завжди було цікаво завести сайтик на якому можна буде документувати щось корисне для себе і фіксувати враження подій, щоб потім можна було із ностальгією згадувати старі історії.",
-        "headingSubText": ""
+        "headingText": "Отже, тут буде коротка історія того як сайт будується або будувався. Так як молодший брат FE дев, а старший - BE дев, початкова задумка була така, що, молодший практикується у BE, а старший брат у FE, таким чином перебираючи досвід один в одного, а як складеться в результаті - напишу потім :). Мені завжди було цікаво завести сайтик на якому можна буде документувати щось корисне для себе і фіксувати враження життєвих подій, щоб потім можна було із ностальгією згадувати старі історії.",
+        "headingSubText": "Сайтик написаний на React, гоститься за допомогою GitHub Pages. Стилізований без CSS фреймворків, фактично все зроблено вручну. Контент наразі береться із json файликів які знаходяться у сорсах, фотографії також, тому сайтик для своїх потреб можна поміняти дуже просто. BE поки що немає. Ось для прикладу лінк на контент для цього параграфу: <a href=\"https://github.com/petroborovets/rovets/blob/f5af41e9e8a29e0c8beddd3af8da1e8ee2305fd6/src/constants/posts.json#L13\" target=\"_blank\">GitHub<a/>."
       },
       "sections": [
         {
           "id": 1,
-          "heading": "Interesting facts",
+          "heading": "Цікаві факти",
           "children": [
             {
               "id": 1,
               "type": "list",
-              "value": ["Total developing time: 8 days","Hours on calls between brothers: 7h", "Number of main branch PRs: 10"]
+              "value": ["Скільки я над ним працював: 9 днів","Кількість годин на мітингах з братом: 8h", "Кількість PR: 10"]
             }
           ]
         },
         {
           "id": 2,
-          "heading": "Issues we faced during development",
+          "heading": "Проблеми із якими зіштовхнулись",
           "children": [
             {
               "id": 1,
               "type": "list",
-              "value": ["Marriage of React Browser Router with Github Pages, you can read details on issue here: <a href=\"https://stackoverflow.com/questions/46056414/getting-404-for-links-with-create-react-app-deployed-to-github-pages\" target=\"_blank\">StackOverflow<a/>. Solution is to use Reacts Hash Router, it is not the most beautiful solution, as it makes browser URLs a bit messy, but it works: <a href=\"https://reactrouter.com/en/main/routers/create-hash-router\" target=\"_blank\">www.reactrouter.com<a/>."]
+              "value": ["Спарування React Browser Router із Github Pages, про проблему можна почитати тут: <a href=\"https://stackoverflow.com/questions/46056414/getting-404-for-links-with-create-react-app-deployed-to-github-pages\" target=\"_blank\">StackOverflow<a/>. Рішення було використовувати Reacts Hash Router, рішення не найкраще, так як воно псує естетику URLs, але воно швидке і працює: <a href=\"https://reactrouter.com/en/main/routers/create-hash-router\" target=\"_blank\">www.reactrouter.com<a/>. Подивимось чи вийде покращити."]
             }
           ]
         }
@@ -56,7 +56,7 @@
             {
               "id": 1,
               "type": "paragraph",
-              "value": "Harum quidem <a href=\"http://www.apple.com\" target=\"_blank\" >Apple<a/> rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus omnis voluptas assumenda est id quod maxime placeat facere possimus, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et."
+              "value": "Harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus omnis voluptas assumenda est id quod maxime placeat facere possimus, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et."
             },
             {
               "id": 2,

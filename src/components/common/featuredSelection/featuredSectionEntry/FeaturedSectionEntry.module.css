@@ -21,7 +21,7 @@
     display: block;
     text-decoration: none;
     text-transform: uppercase;
-    letter-spacing: 2px;
+    letter-spacing: .1rem;
     font-weight: 500;
     font-size: 14px;
     color: #999999;
@@ -37,7 +37,7 @@
 .section_entry_date {
     display: block;
     text-transform: uppercase;
-    letter-spacing: 2px;
+    letter-spacing: .1rem;
     font-weight: 500;
     color: #999999;
     font-size: 14px;

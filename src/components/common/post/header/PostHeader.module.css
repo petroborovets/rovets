@@ -14,7 +14,7 @@
     align-self: center;
     font-family: "Libre Baskerville", serif;
     font-size: 4rem;
-    letter-spacing: -.15rem;
+    letter-spacing: .1rem;
     margin-bottom: 10px;
     padding-bottom: 20px;
     color: rgba(0, 0, 0, 0.8);
@@ -25,9 +25,9 @@
     align-self: center;
     color: rgba(0, 0, 0, 0.5);
     text-transform: uppercase;
-    letter-spacing: .25rem;
+    letter-spacing: .1rem;
     margin-top: 20px;
-    margin-bottom: 40px;
+    margin-bottom: 60px;
 }
 
 .post_page_header_author li {
@@ -47,7 +47,7 @@
     font-size: 1.5rem;
     line-height: 1.9;
     text-align: justify;
-    letter-spacing: 1px;
+    letter-spacing: .1rem;
     color: #000000;
 }
 
