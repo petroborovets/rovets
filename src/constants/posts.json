@@ -55,11 +55,6 @@
           "children": [
             {
               "id": 1,
-              "type": "paragraph",
-              "value": "Harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus omnis voluptas assumenda est id quod maxime placeat facere possimus, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et."
-            },
-            {
-              "id": 2,
               "type": "images",
               "value": [
                 {
@@ -91,11 +86,6 @@
                   "thumbnail": "https://petroborovets.github.io/rovets/brela/borovets-family-brela-mirror.jpeg"
                 }
               ]
-            },
-            {
-              "id": 3,
-              "type": "paragraph",
-              "value": "Harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus omnis voluptas assumenda est id quod maxime placeat facere possimus, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et."
             }
           ]
         },
