@@ -27,7 +27,16 @@
     text-transform: uppercase;
     font-weight: 600;
     margin-bottom: 20px;
-    border-bottom: rgba(255, 255, 255, 0.8);
+    padding-bottom: 10px;
+}
+
+.footer_left_about_title:after {
+    content: "";
+    display: block;
+    margin-top: 10px;
+    width: 120px;
+    height: 1px;
+    background-color: rgba(255, 255, 255, 0.6);
 }
 
 .footer_right {
