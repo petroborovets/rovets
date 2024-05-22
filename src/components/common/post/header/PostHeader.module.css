@@ -11,7 +11,7 @@
 }
 
 .post_page_header_title {
-    align-self: center;
+    text-align: center;
     font-family: "Libre Baskerville", serif;
     font-size: 4rem;
     letter-spacing: .1rem;
