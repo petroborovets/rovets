@@ -7,11 +7,11 @@
     background-color: rgb(29, 29, 31);
     border-color: rgba(255, 255, 255, 0.24);
     color: rgba(255, 255, 255, 0.56);
-    margin-top: 100px;
-    padding: 100px;
+    padding: 70px;
     font-size: 14px;
     letter-spacing: .1rem;
     line-height: 30px;
+    margin-top: auto;
 }
 
 .footer_left {

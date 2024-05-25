@@ -1,9 +1,7 @@
 .about_page {
     display: flex;
     flex-direction: column;
-    max-width: 1000px;
     padding: 20px;
-    margin: auto;
     justify-content: space-around;
 }
 
@@ -16,7 +14,6 @@
     padding-bottom: 20px;
     color: rgba(0, 0, 0, 0.8);
     border-bottom: rgba(0, 0, 0, 0.1) solid 1px;
-    max-width: max-content;
 }
 
 .about_page_header_subtext {
