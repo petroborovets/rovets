@@ -1,4 +1,5 @@
 .section_entry {
+    max-width: 330px;
     background-color: #FFFFFF;
     box-shadow: 1px 1px 15px 0 rgba(0, 0, 0, 0.3);
     transition: transform 0.5s, box-shadow 0.5s;
@@ -12,7 +13,7 @@
 }
 
 .section_entry img {
-    max-width: 330px;
+    max-width: 100%;
     display: inline-block;
     margin-bottom: 30px;
 }

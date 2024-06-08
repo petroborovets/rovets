@@ -2,7 +2,7 @@ import s from './FeaturedSection.module.css'
 
 import FeaturedSectionEntry from "./featuredSectionEntry/FeaturedSectionEntry.jsx";
 
-import postsJson from './../../../constants/posts.json';
+import postsJson from './../../../constants/posts.json'
 
 function FeaturedSection(props) {
     // eslint-disable-next-line react/prop-types
