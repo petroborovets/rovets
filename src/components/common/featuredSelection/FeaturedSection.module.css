@@ -1,8 +1,8 @@
 .section {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(auto, 330px) ) ;
+    grid-template-columns: repeat(auto-fit, minmax(auto, 330px) ) ;
     justify-content: space-around;
-    column-gap: 20px;
+    column-gap: 40px;
     row-gap: 40px;
     margin: 40px 40px;
     text-align: center;
