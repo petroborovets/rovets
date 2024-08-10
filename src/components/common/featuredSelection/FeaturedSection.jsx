@@ -3,11 +3,16 @@ import s from './FeaturedSection.module.css'
 import FeaturedSectionEntry from "./featuredSectionEntry/FeaturedSectionEntry.jsx";
 
 import postsJson from './../../../constants/posts.json'
+import PropTypes from "prop-types";
 
-function FeaturedSection(props) {
-    // eslint-disable-next-line react/prop-types
-    const {categoryId} = props
+function FeaturedSection({categoryId}) {
+
     const posts = postsJson.posts?.filter(post => categoryId ? post.category === categoryId : true);
+
+    posts.sort(function(a, b) {
+        return Date.parse(a.date) > Date.parse(b.date) ? -1 : 1;
+    })
+
     return (
         <div className={s.section}>
             {
@@ -23,6 +28,10 @@ function FeaturedSection(props) {
             }
         </div>
     );
+}
+
+FeaturedSection.propTypes = {
+    categoryId: PropTypes.string
 }
 
 export default FeaturedSection;

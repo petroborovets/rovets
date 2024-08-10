@@ -14,6 +14,8 @@
 
 .section_entry img {
     max-width: 100%;
+    min-height: 260px;
+    object-fit: cover;
     display: inline-block;
     margin-bottom: 30px;
 }

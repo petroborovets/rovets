@@ -1,4 +1,8 @@
-.post_section_list_child {
+.post_section_list {
     margin-top: 10px;
+}
+
+.post_section_list_child {
+    margin-top: 5px;
     margin-left: 20px;
 }

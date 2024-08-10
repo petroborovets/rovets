@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 
 function ListPostSection({list}) {
     return (
-        <ul>
+        <ul className={s.post_section_list}>
             {
                 list?.map((li, index) =>
                     <li className={s.post_section_list_child} key={li + index} dangerouslySetInnerHTML={{__html: li}}/>
