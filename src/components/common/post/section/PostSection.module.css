@@ -9,6 +9,7 @@
 
 .post_section_link {
     text-decoration: none;
+    color: inherit;
     font-size: 15px;
     margin-left: 10px;
     margin-right: 10px;

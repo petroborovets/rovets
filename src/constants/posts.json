@@ -134,145 +134,14 @@
     },
     {
       "id": 4,
-      "date": "May 11, 2024",
-      "category": 7,
-      "image": "lifestyle/andrew-bike.jpeg",
-      "title": "Experience of Honda 1994 ownership",
-      "author": "Andrew Borovets",
-      "sections": [
-      ]
-    },
-    {
-      "id": 5,
-      "date": "Aug 10, 2024",
-      "category": 1,
-      "image": "dev/react.webp",
-      "title": "Notes on React",
-      "author": "Petro Borovets",
-      "headSection": {
-        "headingText": "React, sometimes referred to as a frontend JavaScript framework, but actually is a free, open-source FE library created by Facebook. It is maintained by Meta and a community of individual developers and companies. Library can be utilized to build single-page applications, mobile apps, or server-rendered apps with frameworks such as Next.js. Since React focuses solely on the user interface and rendering components to the DOM, applications built with React often depend on additional libraries for routing and other client-side functionalities.",
-        "headingSubText": "A major benefit of React is its ability to only rerender the parts of the page that have changed, thus avoiding the unnecessary re-rendering of elements that remain unchanged. React was initially released on May 29, 2013."
-      },
-      "sections": [
-        {
-          "id": 1,
-          "heading": "List of features covered",
-          "children": [
-            {
-              "id": 1,
-              "type": "list",
-              "value": [
-                "Overview",
-                "Components, props, JSX",
-                "State, events and Forms: Interactive Components",
-                "State management",
-                "Effects and Data Fetching",
-                "Hooks, Refs and More State",
-                "Advanced State Management: The Context API"
-              ]
-            }
-          ]
-        },
-        {
-          "id": 2,
-          "heading": "Overview",
-          "children": [
-            {
-              "id": 1,
-              "type": "paragraph",
-              "value": "React allows developers to create reusable UI components, manage the state of these components efficiently, and build complex interfaces with a declarative approach."
-            },
-            {
-              "id": 1,
-              "type": "paragraph",
-              "value": "Here are some key features of React:"
-            },
-            {
-              "id": 2,
-              "type": "list",
-              "value": [
-                "<b>Component-Based Architecture</b>: React encourages the development of applications using small, reusable components. Each component encapsulates its own logic and rendering, making the code more modular and easier to maintain.",
-                "<b>Virtual DOM</b>: React uses a virtual DOM to optimize rendering performance. When a component's state changes, React updates the virtual DOM first and then efficiently reconciles and updates only the parts of the real DOM that have changed.",
-                "<b>Declarative Syntax</b>: React allows developers to describe what the UI should look like for a given state using a declarative syntax, making it easier to understand and manage the code.",
-                "<b>JSX (JavaScript XML)</b>: React uses JSX, a syntax extension that allows you to write HTML-like code within JavaScript. JSX makes the code more readable and easier to write by combining the power of JavaScript with the simplicity of HTML.",
-                "<b>State Management</b>: React provides a mechanism to manage component state, allowing components to respond to user inputs and other events dynamically. State management is essential for creating interactive UIs.",
-                "<b>One-Way Data Binding</b>: React uses one-way data binding, meaning that data flows in a single direction—from parent to child components. This makes it easier to track changes and debug applications.",
-                "<b>React Hooks</b>: Introduced in React 16.8, hooks are functions that let you use state and other React features without writing class components. Hooks like useState, useEffect, and useContext simplify state management and side effects.",
-                "<b>React Router</b>: React Router is a library for handling routing in React applications, enabling navigation between different views or pages without reloading the entire application."
-              ]
-            }
-          ]
-        },
-        {
-          "id": 3,
-          "heading": "Components, props, JSX",
-          "children": [
-            {
-              "id": 1,
-              "type": "paragraph",
-              "value": "<b>Components</b> are the building blocks of a React application. They encapsulate parts of the user interface and manage their own state and behavior. There are two types of components: <b>Functional Components</b> and <b>Class Components</b>."
-            },
-            {
-              "id": 2,
-              "type": "list",
-              "value": [
-                "<b>Functional components</b> are Functions that return React elements. They can use hooks to manage state and side effects.",
-                "<b>Class components</b> are ES6 classes that extend <b>React.Component</b>. They have lifecycle methods and can manage state using <code>this.state</code>."
-              ]
-            },
-            {
-              "id": 3,
-              "type": "image",
-              "value": "dev/react-post/1-read-only-props.png"
-            },
-            {
-              "id": 4,
-              "type": "paragraph",
-              "value": "<b>Props</b> (short for properties) are a way to pass data from a parent component to a child component. Props are read-only and help to make components reusable by allowing them to receive data and configuration from their parent. So in React we have only one way data flow. <br><b>Accessing Props:</b> In functional components, props are accessed directly as function arguments. In class components, they are accessed via <code>this.props</code>. "
-            },
-            {
-              "id": 5,
-              "type": "image",
-              "value": "dev/react-post/2-one-way data-flow.png"
-            },
-            {
-              "id": 6,
-              "type": "paragraph",
-              "value": "<b>JSX (JavaScript XML)</b> is a syntax extension for JavaScript that allows you to write HTML-like code within JavaScript. It makes it easier to create React elements and components. JSX is compiled to <code>React.createElement</code> calls, which produce JavaScript objects that describe the UI."
-            },
-            {
-              "id": 7,
-              "type": "image",
-              "value": "dev/react-post/3-jsx-rules.png"
-            },
-            {
-              "id": 8,
-              "type": "paragraph",
-              "value": "<b>Summary:</b>"
-            },
-            {
-              "id": 9,
-              "type": "list",
-              "value": [
-                "<b>Components:</b> Reusable pieces of UI that can be either functional or class-based.",
-                "<b>Props:</b> Mechanism for passing data to components, making them dynamic and reusable.",
-                "<b>JSX:</b> Syntax extension that allows you to write HTML-like code in JavaScript, making the creation of React elements more intuitive."
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "date": "Aug 11, 2024",
+      "date": "April 25, 2024",
       "category": 8,
       "image": "gaming/cyberpunk/cyberpunk_logo.jpeg",
-      "title": "Experience with Cyberpunk 2077",
+      "title": "Cyberpunk 2077",
       "author": "Andrii Borovets",
       "headSection": {
         "headingText": "I had a mixed feelings about this game, I started playing it few month after it came out and I didn't like the gameplay and after 10 or so hours of game I quit it. But now in 2024 the game had a lot of improvements and updates and I decided to give it another try.",
-        "headingSubText": "I am a big fan of RPG games, but usually I play games that are placed in the medieval times (meaning there are no technologies and just a big sword :) ), My favorite game so far is the Elden ring in which I have spend more then 600 hours playing. Also played a lot of WOW (World of warcraft) but after spending so many horus playing these games I wanted something new, and this is where the Cyberpunk 2077 kicks in"
+        "headingSubText": "I am a big fan of RPG games, but usually I play games that are placed in the medieval times (meaning there are no technologies and just a big sword :) ), My favorite game so far is the Elden ring in which I have spend more then 600 hours playing. Also played a lot of WOW (World of warcraft) but after spending so many horus playing these games I wanted something new, and this is where the Cyberpunk 2077 kicks in."
       },
       "sections": [
         {
@@ -387,6 +256,177 @@
               "id": 7,
               "type": "paragraph",
               "value": "So far I have spent around 60 hours playing this game. And I think it has a lot of progress since it lunched. The story is interesting and grips you and the combat is perfect if you chose the right build. And as for the problems, I would say they are outweighed by all the adventures. The game of course has some bugs and problems but nothing serious that ruins the gameplay. So I really recommend you to try it out!)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "date": "Aug 10, 2024",
+      "category": 1,
+      "image": "dev/react.webp",
+      "title": "Notes on React",
+      "author": "Petro Borovets",
+      "headSection": {
+        "headingText": "React, sometimes referred to as a frontend JavaScript framework, but actually is a free, open-source FE library created by Facebook. It is maintained by Meta and a community of individual developers and companies. Library can be utilized to build single-page applications, mobile apps, or server-rendered apps with frameworks such as Next.js. Since React focuses solely on the user interface and rendering components to the DOM, applications built with React often depend on additional libraries for routing and other client-side functionalities.",
+        "headingSubText": "A major benefit of React is its ability to only rerender the parts of the page that have changed, thus avoiding the unnecessary re-rendering of elements that remain unchanged. React was initially released on May 29, 2013."
+      },
+      "sections": [
+        {
+          "id": 1,
+          "heading": "Content",
+          "children": [
+            {
+              "id": 1,
+              "type": "list",
+              "value": [
+                "Overview",
+                "Components, props, JSX",
+                "State, events and Forms: Interactive Components",
+                "State management",
+                "Effects and Data Fetching",
+                "Hooks, Refs and More State",
+                "Advanced State Management: The Context API"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "heading": "Overview",
+          "children": [
+            {
+              "id": 1,
+              "type": "paragraph",
+              "value": "React allows developers to create reusable UI components, manage the state of these components efficiently, and build complex interfaces with a declarative approach."
+            },
+            {
+              "id": 2,
+              "type": "paragraph",
+              "value": "Here are some key features of React:"
+            },
+            {
+              "id": 3,
+              "type": "list",
+              "value": [
+                "<b>Component-Based Architecture</b>: React encourages the development of applications using small, reusable components. Each component encapsulates its own logic and rendering, making the code more modular and easier to maintain.",
+                "<b>Virtual DOM</b>: React uses a virtual DOM to optimize rendering performance. When a component's state changes, React updates the virtual DOM first and then efficiently reconciles and updates only the parts of the real DOM that have changed.",
+                "<b>Declarative Syntax</b>: React allows developers to describe what the UI should look like for a given state using a declarative syntax, making it easier to understand and manage the code.",
+                "<b>JSX (JavaScript XML)</b>: React uses JSX, a syntax extension that allows you to write HTML-like code within JavaScript. JSX makes the code more readable and easier to write by combining the power of JavaScript with the simplicity of HTML.",
+                "<b>State Management</b>: React provides a mechanism to manage component state, allowing components to respond to user inputs and other events dynamically. State management is essential for creating interactive UIs.",
+                "<b>One-Way Data Binding</b>: React uses one-way data binding, meaning that data flows in a single direction—from parent to child components. This makes it easier to track changes and debug applications.",
+                "<b>React Hooks</b>: Introduced in React 16.8, hooks are functions that let you use state and other React features without writing class components. Hooks like <code>useState</code>, <code>useEffect</code>, and <code>useContext</code> simplify state management and side effects.",
+                "<b>React Router</b>: React Router is a library for handling routing in React applications, enabling navigation between different views or pages without reloading the entire application."
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "heading": "Components, props, JSX",
+          "children": [
+            {
+              "id": 1,
+              "type": "paragraph",
+              "value": "<b>Components</b> are the building blocks of a React application. They encapsulate parts of the user interface and manage their own state and behavior. There are two types of components: <b>Functional Components</b> and <b>Class Components</b>."
+            },
+            {
+              "id": 2,
+              "type": "list",
+              "value": [
+                "<b>Functional components</b> are Functions that return React elements. They can use hooks to manage state and side effects.",
+                "<b>Class components</b> are ES6 classes that extend <b>React.Component</b>. They have lifecycle methods and can manage state using <code>this.state</code>."
+              ]
+            },
+            {
+              "id": 3,
+              "type": "image",
+              "value": "dev/react-post/1-read-only-props.png"
+            },
+            {
+              "id": 4,
+              "type": "paragraph",
+              "value": "<b>Props</b> (short for properties) are a way to pass data from a parent component to a child component. Props are read-only and help to make components reusable by allowing them to receive data and configuration from their parent. So in React we have only one way data flow. <br><b>Accessing Props:</b> In functional components, props are accessed directly as function arguments. In class components, they are accessed via <code>this.props</code>. "
+            },
+            {
+              "id": 5,
+              "type": "image",
+              "value": "dev/react-post/2-one-way data-flow.png"
+            },
+            {
+              "id": 6,
+              "type": "paragraph",
+              "value": "<b>JSX (JavaScript XML)</b> is a syntax extension for JavaScript that allows you to write HTML-like code within JavaScript. It makes it easier to create React elements and components. JSX is compiled to <code>React.createElement</code> calls, which produce JavaScript objects that describe the UI."
+            },
+            {
+              "id": 7,
+              "type": "image",
+              "value": "dev/react-post/3-jsx-rules.png"
+            },
+            {
+              "id": 8,
+              "type": "paragraph",
+              "value": "<b>So, lets sum-up:</b>"
+            },
+            {
+              "id": 9,
+              "type": "list",
+              "value": [
+                "<b>Components:</b> Reusable pieces of UI that can be either functional or class-based.",
+                "<b>Props:</b> Mechanism for passing data to components, making them dynamic and reusable.",
+                "<b>JSX:</b> Syntax extension that allows you to write HTML-like code in JavaScript, making the creation of React elements more intuitive."
+              ]
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "heading": "State, events and Forms: Interactive Components",
+          "children": [
+            {
+              "id": 1,
+              "type": "paragraph",
+              "value": "In React, <b>state</b> is a core concept used to manage data that changes over time and affects how a component renders. State is an object that represents the parts of the <b>component</b> that can change and is managed within the component itself."
+            },
+            {
+              "id": 2,
+              "type": "image",
+              "value": "dev/react-post/7-react-naming.png"
+            },
+            {
+              "id": 3,
+              "type": "paragraph",
+              "value": "Both <b>state</b> and <b>props</b> are used to manage data within components, but they serve different purposes and have distinct characteristics."
+            },
+            {
+              "id": 4,
+              "type": "image",
+              "value": "dev/react-post/8-state-vs-props.png"
+            },
+            {
+              "id": 5,
+              "type": "paragraph",
+              "value": "Knowing <b>when</b> and <b>where</b> to use <b>state</b> is crucial for building efficient and maintainable React applications. Here’s a guide on how to use state effectively:"
+            },
+            {
+              "id": 6,
+              "type": "image",
+              "value": "dev/react-post/11-state-where-when.png"
+            },
+            {
+              "id": 10,
+              "type": "paragraph",
+              "value": "Notes:"
+            },
+            {
+              "id": 11,
+              "type": "list",
+              "value": [
+                "Reacts <code>useState</code> hook returns an array with 2 properties: First - current state of the property, second - function that you use to update the state of the property.<br>Ex: <code>const [value, setValue] = useState(someValue)</code> where <code>someValue</code> is an initial state of the value.",
+                "All react functions that start with <code>use</code> keyword are react hooks.",
+                "You can only call hooks on the top level of component function."
+              ]
             }
           ]
         }
