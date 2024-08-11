@@ -262,6 +262,135 @@
           ]
         }
       ]
+    },
+    {
+      "id": 6,
+      "date": "Aug 11, 2024",
+      "category": 8,
+      "image": "gaming/cyberpunk/cyberpunk_logo.jpeg",
+      "title": "Experience with Cyberpunk 2077",
+      "author": "Andrii Borovets",
+      "headSection": {
+        "headingText": "I had a mixed feelings about this game, I started playing it when it few month after it came out and I didn't like the gameplay and after 10 or so hours of game I quit it. But now in 2024 the game had a lot of improvements and updates and I decided to give it another try.",
+        "headingSubText": "I am a big fan of RPG games, but usually I play games that are placed in the medieval times (meaning there are no technologies and just a big sword :) ), My favorite game so far is the Elden ring in which I have spend more then 600 hours playing. Also played a lot of WOW (World of warcraft) but after spending soo many horus playing these games I wanted something new, and this is where the Cyberpunk 2077 kicks in"
+      },
+      "sections": [
+        {
+          "id": 1,
+          "heading": "List of topics",
+          "children": [
+            {
+              "id": 1,
+              "type": "list",
+              "value": [
+                "Overview",
+                "Gameplay experience",
+                "My build in the game",
+                "Conclusion"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "heading": "Overview",
+          "children": [
+            {
+              "id": 1,
+              "type": "paragraph",
+              "value": "<b>Genre:</b> Action RPG"
+            },
+            {
+              "id": 2,
+              "type": "paragraph",
+              "value": "<b>Mode:</b> Single-player"
+            },
+            {
+              "id": 3,
+              "type": "paragraph",
+              "value": "<b>Setting:</b> </br> \"Cyberpunk 2077\" is set in the dystopian future of Night City, a sprawling metropolis located in the Free State of Northern California. The game takes place in the year 2077, where mega-corporations dominate every facet of life, and technology is deeply integrated into human existence. The city is divided into six distinct districts, each with its own culture, architecture, and level of danger."
+            },
+            {
+              "id": 4,
+              "type": "image",
+              "value": "gaming/cyberpunk/night_city.jpeg"
+            },
+            {
+              "id": 5,
+              "type": "paragraph",
+              "value": "The world of Cyberpunk 2077 is heavily inspired by the cyberpunk genre, featuring a blend of high-tech and low-life elements. The city is filled with advanced technology, cybernetic enhancements, and a diverse array of characters ranging from street thugs to corporate executives."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "heading": "Gameplay experience",
+          "children": [
+            {
+              "id": 1,
+              "type": "paragraph",
+              "value": "At the first time playing this game I didn't like the experience I had. But playing it for the second time it all changed. I guess the reason is that the game was constantly improving. I still have a lot of problems with the way they implemented the driving in the game, it doesn't feel realistic at all, the physics of it I mean. Also the way you experience speed - you can drive 200 mph and it feels like you drive 100kph, But that is not the selling point of this game I guess and I can understand why they didn't spend more time improving the driving experience."
+            },
+            {
+              "id": 1,
+              "type": "paragraph",
+              "value": "The combat experience however is much better, I guess it is partially of the build I decided to play, but more on that later. The combat experience is what made me hooked to the game. There are different ways to go with it. Meaning you can build your character in many different ways. What I see is 3 ways to play it. </br> 1) Playing as a mage (using quick hacks). Which relays on injecting hacks into technologies, or people that use cyber ware (which is all people in cyberpunk). </br> 2) Weapon(ranger) Which utilizes all types of weapons as you guessed. </br> 3) Melee weapons. Yep using sword :) (My favourite) "
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "heading": "My build in the game",
+          "children": [
+            {
+              "id": 1,
+              "type": "image",
+              "value": "gaming/cyberpunk/character.jpg"
+            },
+            {
+              "id": 2,
+              "type": "paragraph",
+              "value": "I decided to play with a katana weapon with a mix of using a stenciled pistol and a sniper rifle. I found that this build is really fun to play considering the fact that you can use katana to deflect bullets. </br> Most of the combat I am trying to stay in the shadows and finish off all my enemies with the silenced pistol which makes 150% more damage when you hit the head. Once I am detected I am switching to katana, and the sniper rifle is just there as the cool attribute that is affecting stealth and pistols - also shares the perks to sniper rifles. But I rarely use it."
+            },
+            {
+              "id": 3,
+              "type": "paragraph",
+              "value": "<b>Attributes</b>"
+            },
+            {
+              "id": 4,
+              "type": "image",
+              "value": "gaming/cyberpunk/attributes.jpg"
+            },
+            {
+              "id": 5,
+              "type": "paragraph",
+              "value": "Here you can see what Attributes I am using. </br> Reflexes - affect the movement and the katana. </br> Cool - affects the pistols, stealth and sniper rifles. </br> Other don't really affect my build."
+            },
+            {
+              "id": 6,
+              "type": "image",
+              "value": "gaming/cyberpunk/reflexes.jpg"
+            },
+            {
+              "id": 7,
+              "type": "paragraph",
+              "value": "The reflexes is one of the most interesting attributes that you can chose. It affects the movement and allows you to almost fly from one enemy to another in an instant. Allows you to make a dash which is sort of a teleport that blinks you ~10 meters. "
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "heading": "Conclusion",
+          "children": [
+            {
+              "id": 7,
+              "type": "paragraph",
+              "value": "So far I have spent around 60 hours playing this game. And I think it has a lot of progress since it lunched. The story is interesting and grips you and the combat is perfect if you chose the right build. And if to talk about the problems - I would say they are outweighed by all the adventures. The game of course has some bugs and problems but nothing serious that ruins the gameplay. So I really recommend you to try it out!)"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
