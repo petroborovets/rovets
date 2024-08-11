@@ -10,7 +10,7 @@
       "hoursOnCalls": "5",
       "headSection": {
         "headingText": "Отже, тут буде коротка історія того як сайт будується або будувався. Так як молодший брат FE дев, а старший - BE дев, початкова задумка була така, що, молодший практикується у BE, а старший брат у FE, таким чином перебираючи досвід один в одного, а як складеться в результаті - напишу потім :). Мені завжди було цікаво завести сайтик на якому можна буде документувати щось корисне для себе і фіксувати враження життєвих подій, щоб потім можна було із ностальгією згадувати старі історії.",
-        "headingSubText": "Сайтик написаний на React, гоститься за допомогою GitHub Pages. Стилізований без CSS фреймворків. Контент наразі береться із json файликів які знаходяться у сорсах, фотографії також, тому сайтик для своїх потреб можна поміняти дуже просто. BE поки що немає. Ось для прикладу лінк на контент для цього параграфу: <a href=\"https://github.com/petroborovets/rovets/blob/5c52f4dba2a5673716a8078e667ddd05f43abad6/src/constants/posts.json#L13\" target=\"_blank\">GitHub<a/>."
+        "headingSubText": "Сайт написаний на React, гоститься за допомогою GitHub Pages. Стилізований без CSS фреймворків. Контент наразі береться із json файликів які знаходяться у сорсах, фотографії також, тому сайтик для своїх потреб можна поміняти дуже просто. BE поки що немає. Ось для прикладу лінк на json файл який містить контент для цього параграфу: <a href=\"https://github.com/petroborovets/rovets/blob/5c52f4dba2a5673716a8078e667ddd05f43abad6/src/constants/posts.json#L13\" target=\"_blank\">GitHub<a/>."
       },
       "sections": [
         {
@@ -21,9 +21,8 @@
               "id": 1,
               "type": "list",
               "value": [
-                "Скільки я над ним працював: 10 днів",
-                "Кількість годин на мітингах з братом: 8h",
-                "Кількість PR: 10"
+                "Скільки я над ним працював: 12 днів",
+                "Кількість годин на мітингах з братом: 9h"
               ]
             }
           ]
@@ -36,7 +35,7 @@
               "id": 1,
               "type": "list",
               "value": [
-                "Спарування React Browser Router із Github Pages, про проблему можна почитати тут: <a href=\"https://stackoverflow.com/questions/46056414/getting-404-for-links-with-create-react-app-deployed-to-github-pages\" target=\"_blank\">StackOverflow<a/>. Рішення було використовувати Reacts Hash Router, рішення не найкраще, так як воно псує естетику URLs, але воно швидке і працює: <a href=\"https://reactrouter.com/en/main/routers/create-hash-router\" target=\"_blank\">www.reactrouter.com<a/>. Подивимось чи вийде покращити."
+                "Спарування React Browser Router із Github Pages, про проблему можна почитати тут: <a href=\"https://stackoverflow.com/questions/46056414/getting-404-for-links-with-create-react-app-deployed-to-github-pages\" target=\"_blank\">StackOverflow<a/>. Рішення було використовувати Reacts Hash Router, рішення не найкраще, так як воно псує естетику URLs, але воно швидке і працює: <a href=\"https://reactrouter.com/en/main/routers/create-hash-router\" target=\"_blank\">www.reactrouter.com<a/>."
               ]
             }
           ]
@@ -52,7 +51,7 @@
       "author": "Petro Borovets",
       "headSection": {
         "headingText": "Чітко памятаю момент коли робив цю фотографію, хоч це було дуже давго. На вулиці була спека, повітря було настільки гарячим, що коли ти починав рухатись, здавалось що воно густіше ніж зазвичай, із кожним кроком, ти відчував як воно обгортає твою шкіру. Ми довго йшли і були втомлені. У момент фотографії вітер подув у спину, принісши із собою прохолодні краплинки із моря. Я відчув приплив енергії. ",
-        "headingSubText": "Ми йшли пішохідною стежкою Брели, вона там одна єдина, дуже довга і неймовірно мальовнича. Вона йде від Baška Voda до Jakiruša через усе місто Brela, цікаво було подивитись чим вона закінчується."
+        "headingSubText": "Ми йшли пішохідною стежкою Брели, вона там одна єдина, дуже довга і неймовірно мальовнича. Стежка починається у місті Baška Voda і веде аж до міста Jakiruša через усе місто Brela, цікаво було подивитись чим вона закінчується."
       },
       "sections": [
         {
@@ -151,8 +150,8 @@
       "title": "Notes on React",
       "author": "Petro Borovets",
       "headSection": {
-        "headingText": "React, sometimes referred to as a frontend JavaScript framework, but actually is a free, open-source FE library created by Facebook. It is maintained by Meta and a community of individual developers and companies.",
-        "headingSubText": "Library can be utilized to build single-page applications, mobile apps, or server-rendered apps with frameworks such as Next.js. Since React focuses solely on the user interface and rendering components to the DOM, applications built with React often depend on additional libraries for routing and other client-side functionalities. A major benefit of React is its ability to only rerender the parts of the page that have changed, thus avoiding the unnecessary re-rendering of elements that remain unchanged. React was initially released on May 29, 2013."
+        "headingText": "React, sometimes referred to as a frontend JavaScript framework, but actually is a free, open-source FE library created by Facebook. It is maintained by Meta and a community of individual developers and companies. Library can be utilized to build single-page applications, mobile apps, or server-rendered apps with frameworks such as Next.js. Since React focuses solely on the user interface and rendering components to the DOM, applications built with React often depend on additional libraries for routing and other client-side functionalities.",
+        "headingSubText": "A major benefit of React is its ability to only rerender the parts of the page that have changed, thus avoiding the unnecessary re-rendering of elements that remain unchanged. React was initially released on May 29, 2013."
       },
       "sections": [
         {
@@ -192,14 +191,72 @@
               "id": 2,
               "type": "list",
               "value": [
-                "Component-Based Architecture: React encourages the development of applications using small, reusable components. Each component encapsulates its own logic and rendering, making the code more modular and easier to maintain.",
-                "Virtual DOM: React uses a virtual DOM to optimize rendering performance. When a component's state changes, React updates the virtual DOM first and then efficiently reconciles and updates only the parts of the real DOM that have changed.",
-                "Declarative Syntax: React allows developers to describe what the UI should look like for a given state using a declarative syntax, making it easier to understand and manage the code.",
-                "JSX (JavaScript XML): React uses JSX, a syntax extension that allows you to write HTML-like code within JavaScript. JSX makes the code more readable and easier to write by combining the power of JavaScript with the simplicity of HTML.",
-                "State Management: React provides a mechanism to manage component state, allowing components to respond to user inputs and other events dynamically. State management is essential for creating interactive UIs.",
-                "One-Way Data Binding: React uses one-way data binding, meaning that data flows in a single direction—from parent to child components. This makes it easier to track changes and debug applications.",
-                "React Hooks: Introduced in React 16.8, hooks are functions that let you use state and other React features without writing class components. Hooks like useState, useEffect, and useContext simplify state management and side effects.",
-                "React Router: React Router is a library for handling routing in React applications, enabling navigation between different views or pages without reloading the entire application."
+                "<b>Component-Based Architecture</b>: React encourages the development of applications using small, reusable components. Each component encapsulates its own logic and rendering, making the code more modular and easier to maintain.",
+                "<b>Virtual DOM</b>: React uses a virtual DOM to optimize rendering performance. When a component's state changes, React updates the virtual DOM first and then efficiently reconciles and updates only the parts of the real DOM that have changed.",
+                "<b>Declarative Syntax</b>: React allows developers to describe what the UI should look like for a given state using a declarative syntax, making it easier to understand and manage the code.",
+                "<b>JSX (JavaScript XML)</b>: React uses JSX, a syntax extension that allows you to write HTML-like code within JavaScript. JSX makes the code more readable and easier to write by combining the power of JavaScript with the simplicity of HTML.",
+                "<b>State Management</b>: React provides a mechanism to manage component state, allowing components to respond to user inputs and other events dynamically. State management is essential for creating interactive UIs.",
+                "<b>One-Way Data Binding</b>: React uses one-way data binding, meaning that data flows in a single direction—from parent to child components. This makes it easier to track changes and debug applications.",
+                "<b>React Hooks</b>: Introduced in React 16.8, hooks are functions that let you use state and other React features without writing class components. Hooks like useState, useEffect, and useContext simplify state management and side effects.",
+                "<b>React Router</b>: React Router is a library for handling routing in React applications, enabling navigation between different views or pages without reloading the entire application."
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "heading": "Components, props, JSX",
+          "children": [
+            {
+              "id": 1,
+              "type": "paragraph",
+              "value": "<b>Components</b> are the building blocks of a React application. They encapsulate parts of the user interface and manage their own state and behavior. There are two types of components: <b>Functional Components</b> and <b>Class Components</b>."
+            },
+            {
+              "id": 2,
+              "type": "list",
+              "value": [
+                "<b>Functional components</b> are Functions that return React elements. They can use hooks to manage state and side effects.",
+                "<b>Class components</b> are ES6 classes that extend <b>React.Component</b>. They have lifecycle methods and can manage state using <code>this.state</code>."
+              ]
+            },
+            {
+              "id": 3,
+              "type": "image",
+              "value": "dev/react-post/1-read-only-props.png"
+            },
+            {
+              "id": 4,
+              "type": "paragraph",
+              "value": "<b>Props</b> (short for properties) are a way to pass data from a parent component to a child component. Props are read-only and help to make components reusable by allowing them to receive data and configuration from their parent. So in React we have only one way data flow. <br><b>Accessing Props:</b> In functional components, props are accessed directly as function arguments. In class components, they are accessed via <code>this.props</code>. "
+            },
+            {
+              "id": 5,
+              "type": "image",
+              "value": "dev/react-post/2-one-way data-flow.png"
+            },
+            {
+              "id": 6,
+              "type": "paragraph",
+              "value": "<b>JSX (JavaScript XML)</b> is a syntax extension for JavaScript that allows you to write HTML-like code within JavaScript. It makes it easier to create React elements and components. JSX is compiled to <code>React.createElement</code> calls, which produce JavaScript objects that describe the UI."
+            },
+            {
+              "id": 7,
+              "type": "image",
+              "value": "dev/react-post/3-jsx-rules.png"
+            },
+            {
+              "id": 8,
+              "type": "paragraph",
+              "value": "<b>Summary:</b>"
+            },
+            {
+              "id": 9,
+              "type": "list",
+              "value": [
+                "<b>Components:</b> Reusable pieces of UI that can be either functional or class-based.",
+                "<b>Props:</b> Mechanism for passing data to components, making them dynamic and reusable.",
+                "<b>JSX:</b> Syntax extension that allows you to write HTML-like code in JavaScript, making the creation of React elements more intuitive."
               ]
             }
           ]

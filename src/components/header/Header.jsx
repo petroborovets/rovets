@@ -7,8 +7,6 @@ function Header() {
 
     const {categories} = caterotiesJson;
 
-    console.log(categories);
-
     return (
         <header className={s.header}>
             <Link to="/rovets/" className={s.header_logo}>ROVETS</Link>

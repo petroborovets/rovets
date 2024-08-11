@@ -29,12 +29,12 @@ const router = createHashRouter([
                 element: <ContactPage/>,
             },
             {
-                path: '/rovets/post/:id',
+                path: '/rovets/post/:postId',
                 element: <PostPage/>
             }
             ,
             {
-                path: '/rovets/category/:id',
+                path: '/rovets/category/:categoryId',
                 element: <CategoryPage/>
             }
         ],

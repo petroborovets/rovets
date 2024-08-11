@@ -31,7 +31,7 @@ function FeaturedSection({categoryId}) {
 }
 
 FeaturedSection.propTypes = {
-    categoryId: PropTypes.string
+    categoryId: PropTypes.number
 }
 
 export default FeaturedSection;
