@@ -403,29 +403,58 @@
               "id": 4,
               "type": "image",
               "value": "dev/react-post/8-state-vs-props.png"
-            },
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "heading": "State management",
+          "children": [
             {
-              "id": 5,
+              "id": 1,
               "type": "paragraph",
               "value": "Knowing <b>when</b> and <b>where</b> to use <b>state</b> is crucial for building efficient and maintainable React applications. Here’s a guide on how to use state effectively:"
             },
             {
-              "id": 6,
+              "id": 2,
               "type": "image",
               "value": "dev/react-post/11-state-where-when.png"
             },
             {
-              "id": 10,
+              "id": 3,
               "type": "paragraph",
-              "value": "Notes:"
+              "value": "Lets take a look at the example below.<br>Please check UI mockup on the right side of the diagram, we have 3 components:<br>- Parent: <b>Checkout</b>, <br>- Two children: <b>Total</b> and <b>Promotions</b>.<br>Since <b>Promotions</b> component uses <b>coupons</b>, the logical step would be to place <b>coupons</b> state on the component level. But we quickly realize that <b>Total</b> component should be aware of coupons as well. How can we solve this issue?"
             },
             {
-              "id": 11,
+              "id": 4,
+              "type": "image",
+              "value": "dev/react-post/12-state-sharing-with-sibling-component-problem.png"
+            },
+            {
+              "id": 5,
+              "type": "paragraph",
+              "value": "Solution to this problem would be to \"Lift up\" the State to parent <b>Checkout</b> component and share this state with children using props. Here is how it work:"
+            },
+            {
+              "id": 6,
+              "type": "image",
+              "value": "dev/react-post/13-lifting-up-the-state.png"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "heading": "Notes / question-answers",
+          "children": [
+            {
+              "id": 1,
               "type": "list",
               "value": [
-                "Reacts <code>useState</code> hook returns an array with 2 properties: First - current state of the property, second - function that you use to update the state of the property.<br>Ex: <code>const [value, setValue] = useState(someValue)</code> where <code>someValue</code> is an initial state of the value.",
+                "Reacts <code>useState</code> <b>hook</b> returns an array with 2 properties:<br>First - current state of the property,<br>Second - function that you use to update the state of the property.<br>Ex: <code>const [value, setValue] = useState(someValue)</code> where <code>someValue</code> is an initial state of the value.",
                 "All react functions that start with <code>use</code> keyword are react hooks.",
-                "You can only call hooks on the top level of component function."
+                "You can only call <b>hooks</b> on the top level of component function.",
+                "What is <b>Derived State</b>? - <b>Derived State</b>: state that is computed from an existing peace of state or from props.",
+                "<b>Component</b> vs <b>Instance</b> vs <b>Element</b>:<br>- <b>Component</b> is a code blueprint,<br>- <b>Instance</b> is a \"physical\" representation of the component. <br>- <b>Element</b>: Now, as we know components return JSX which is converted to <code>React.createElement</code> function calls, so <b>Element</b> is a result of usage of <b>Component</b> in our code -it is simply a big immutable javascript object that React keeps in memory. React <b>Element</b> contains all necessary information in order to create DOM elements for the current component instance."
               ]
             }
           ]

@@ -1,4 +1,5 @@
 .post_section_img_child {
     margin-top: 30px;
     max-width: 100%;
+    box-shadow: 0 0 20px 3px rgba(0, 0, 0, 0.3);
 }

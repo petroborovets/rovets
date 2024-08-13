@@ -16,9 +16,7 @@ const YouTubeVideo = ({sectionChild}) => <YoutubeVideoPostSection videoSrc={sect
 const Gallery = ({sectionChild}) => <ImageGallery additionalClass={s.gallery_section_child} items={sectionChild.value} />
 const Map = ({sectionChild}) => <GoogleMap mapSrc={sectionChild.value} />
 
-function PostSectionChild(props) {
-    const {sectionChild} = props;
-
+function PostSectionChild({sectionChild}) {
     const renderMap = {
         image: Image,
         paragraph: Paragraph,
