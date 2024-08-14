@@ -127,9 +127,80 @@
       "date": "Jul 15, 2024",
       "category": 2,
       "image": "bianchi-at-home.jpeg",
-      "title": "Building a race bike",
+      "title": "Two wheels",
       "author": "Petro Borovets",
+      "headSection": {
+        "headingText": "Cycling is more than just a means of transportation, it's an invitation to explore, a journey on two wheels that merges the physical with the spiritual. As you ride, the world around you transforms - each pedal stroke propels you into a new moment, a fresh perspective. The wind in your hair becomes a whisper of freedom, a reminder that you're part of something larger, something alive.",
+        "headingSubText": "&nbsp;&nbsp;&nbsp;&nbsp;The road ahead unfurls like a story yet to be told, each turn revealing a new chapter, each mile a step deeper into the narrative of your own experience. The rhythmic motion of pedaling is like a heartbeat, steady and reliable, grounding you in the present while pushing you forward into the unknown.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;In this journey, there's a unique blend of exhilaration and calm. The thrill of speed and the rush of the ride are balanced by the meditative focus that comes with the repetitive motion, the sound of tires meeting pavement, the subtle shifts in terrain. It's a dance between effort and ease, a harmony between body and mind. <br><br>&nbsp;&nbsp;&nbsp;&nbsp;Cycling connects you to the world in a way few other activities can. You're not just passing through the landscape; you're immersed in it, feeling every hill, every gust of wind, every ray of sunlight. It's a sensory experience that sharpens your awareness and heightens your appreciation for the simple, often overlooked details of life. <br><br>&nbsp;&nbsp;&nbsp;&nbsp;At the same time, cycling is a personal journey. It's a chance to test your limits, to push beyond what you thought possible, and to discover new strengths. But it's also a space for introspection, where the steady rhythm of the ride creates a quiet mental space for reflection and clarity. <br><br>&nbsp;&nbsp;&nbsp;&nbsp;Whether you're riding through a bustling city or along a tranquil country road, cycling offers a unique blend of adventure and serenity. It's a reminder that the journey itself is as important as the destination, that in the simple act of moving forward on two wheels, you can find both excitement and peace, challenge and comfort, freedom and connection."
+      },
       "sections": [
+        {
+          "id": 1,
+          "heading": "First 100",
+          "children": [
+            {
+              "id": 1,
+              "type": "paragraph",
+              "value": "I remember lying in bed the night before the ride, planning the route. Despite having trained consistently for a few months, I didn’t really believe I would be able to make it. As a heavy rider, the ascent on the way back worried me a bit."
+            },
+            {
+              "id": 2,
+              "type": "image",
+              "value": "/cycling/two-wheels/first-100-route.jpeg"
+            },
+            {
+              "id": 3,
+              "type": "paragraph",
+              "value": "But once I started the ride, I was so captivated by the beauty of the early morning in the mountains that I completely forgot about it."
+            },
+            {
+              "id": 4,
+              "type": "images",
+              "value": [
+                {
+                  "original": "https://petroborovets.github.io/rovets/cycling/two-wheels/yablunytsya.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/two-wheels/yablunytsya.jpeg"
+                },
+                {
+                  "original": "https://petroborovets.github.io/rovets/cycling/two-wheels/yasinia.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/two-wheels/yasinia.jpeg"
+                },
+                {
+                  "original": "https://petroborovets.github.io/rovets/cycling/two-wheels/yasinia-2.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/two-wheels/yasinia-2.jpeg"
+                },
+                {
+                  "original": "https://petroborovets.github.io/rovets/cycling/two-wheels/yasinia-3.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/two-wheels/yasinia-3.jpeg"
+                },
+                {
+                  "original": "https://petroborovets.github.io/rovets/cycling/two-wheels/yasinia-4.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/two-wheels/yasinia-4.jpeg"
+                },
+                {
+                  "original": "https://petroborovets.github.io/rovets/cycling/two-wheels/yasinia-lunch.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/two-wheels/yasinia-lunch.jpeg"
+                },
+                {
+                  "original": "https://petroborovets.github.io/rovets/cycling/two-wheels/yasinia-river.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/two-wheels/yasinia-river.jpeg"
+                },
+                {
+                  "original": "https://petroborovets.github.io/rovets/cycling/two-wheels/polianytsya.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/two-wheels/polianytsya.jpeg"
+                },
+                {
+                  "original": "https://petroborovets.github.io/rovets/cycling/two-wheels/polianytsya-2.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/two-wheels/polianytsya-2.jpeg"
+                },
+                {
+                  "original": "https://petroborovets.github.io/rovets/cycling/two-wheels/yablunytsya-2.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/two-wheels/yablunytsya-2.jpeg"
+                }
+              ]
+            }
+          ]
+        }
       ]
     },
     {
