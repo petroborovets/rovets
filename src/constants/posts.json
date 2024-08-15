@@ -140,8 +140,8 @@
           "children": [
             {
               "id": 1,
-              "type": "youtubeVideo",
-              "value": "https://www.youtube.com/embed/ESme_UyuKFs?si=66vQ2C2Za7GVet2h"
+              "type": "image",
+              "value": "/cycling/two-wheels/1.jpeg"
             },
             {
               "id": 2,
@@ -151,7 +151,7 @@
             {
               "id": 3,
               "type": "image",
-              "value": "/cycling/two-wheels/1.jpeg"
+              "value": "/cycling/two-wheels/5.jpeg"
             },
             {
               "id": 4,
@@ -190,8 +190,8 @@
             },
             {
               "id": 11,
-              "type": "image",
-              "value": "/cycling/two-wheels/5.jpeg"
+              "type": "youtubeVideo",
+              "value": "https://www.youtube.com/embed/ESme_UyuKFs?si=66vQ2C2Za7GVet2h"
             }
           ]
         }
