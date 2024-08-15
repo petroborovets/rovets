@@ -531,35 +531,34 @@
       "date": "Aug 25, 2023",
       "category": 2,
       "image": "/cycling/first-100/yasinia-4.jpeg",
-      "title": "First 100",
+      "title": "Centuries",
       "author": "Petro Borovets",
       "headSection": {
-        "headingText": "I remember lying in bed the night before the ride, planning the route. Despite having trained consistently for a few months, I didn’t really believe I would be able to make it. As a heavy rider, the ascent on the way back worried me a bit.",
-        "headingSubText": "Luckily once I started the ride, I was so captivated by the beauty of the early morning in the mountains that I completely forgot about it."
+        "headingText": "Century ride is a road cycling event covering 100 kilometers or more in metric system countries, or 100 miles (160.9 km) or more in imperial system countries, typically organized by cycling clubs. Many clubs host an annual century ride as a social gathering for cyclists and as a fundraiser for the club's other activities. The exact origins of the century ride are unclear, but most agree they were invented in the United States, around the 1890's.",
+        "headingSubText": "This was a period when cycling was becoming increasingly popular, and long-distance rides were seen as a test of endurance and fitness. The century ride remains a milestone for many cyclists, symbolizing not just physical endurance but also a love of cycling and a connection to the sport's rich history."
       },
       "sections": [
         {
           "id": 1,
-          "heading": "Route",
+          "heading": "August 25, 2023, Bukovel, first 100",
           "children": [
             {
               "id": 1,
               "type": "paragraph",
-              "value": "Night before I stayed in <a href=\"https://www.booking.com/Share-eqDVX1\" target=\"_blank\">HVOYA apart-hotel<a/> in Bukovel, plan was to ride from <b>Bukovel</b> west exit -> <b>Bilyn</b> -> <b>Yablunytsia</b> -> <b>Tatariv</b> -> <b>Bukovel</b> east."
+              "value": "I remember lying in bed the night before my first 100 km ride, planning the route. Despite having trained consistently for a few months, I wasn’t entirely sure I could complete it, especially in the Carpathians. As a heavier rider, the ascent on the way back worried me a bit. Luckily, once I started the ride, I was so captivated by the beauty of the early morning in the mountains that I completely forgot about it. It was also quite cold outside, and when it's cold, that's all you can really think about."
             },
             {
               "id": 2,
               "type": "image",
               "value": "/cycling/first-100/first-100-route.jpeg"
-            }
-          ]
-        },
-        {
-          "id": 2,
-          "heading": "Photos",
-          "children": [
+            },
             {
-              "id": 5,
+              "id": 3,
+              "type": "paragraph",
+              "value": "I stayed in <a href=\"https://www.booking.com/Share-eqDVX1\" target=\"_blank\">HVOYA apart-hotel<a/> in Bukovel, plan was to ride from <b>Bukovel</b> west exit -> <b>Bilyn</b> -> <b>Yablunytsia</b> -> <b>Tatariv</b> -> and back to <b>Bukovel</b> but entering from the east."
+            },
+            {
+              "id": 4,
               "type": "images",
               "value": [
                 {
@@ -603,15 +602,9 @@
                   "thumbnail": "https://petroborovets.github.io/rovets/cycling/first-100/yablunytsya-2.jpeg"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "id": 3,
-          "heading": "Stats",
-          "children": [
+            },
             {
-              "id": 3,
+              "id": 5,
               "type": "paragraph",
               "value": "<b>Some stats from <a href=\"https://www.strava.com/activities/9716744953/overview\" target=\"_blank\">Strava<a/>:</b>"
             },
