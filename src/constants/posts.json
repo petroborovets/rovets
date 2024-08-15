@@ -126,78 +126,72 @@
       "id": 3,
       "date": "Jul 15, 2024",
       "category": 2,
-      "image": "bianchi-at-home.jpeg",
+      "image": "/cycling/two-wheels/hodovytsya.jpeg",
       "title": "Two wheels",
       "author": "Petro Borovets",
       "headSection": {
-        "headingText": "Cycling is more than just a means of transportation, it's an invitation to explore, a journey on two wheels that merges the physical with the spiritual. As you ride, the world around you transforms - each pedal stroke propels you into a new moment, a fresh perspective. The wind in your hair becomes a whisper of freedom, a reminder that you're part of something larger, something alive.",
-        "headingSubText": "&nbsp;&nbsp;&nbsp;&nbsp;The road ahead unfurls like a story yet to be told, each turn revealing a new chapter, each mile a step deeper into the narrative of your own experience. The rhythmic motion of pedaling is like a heartbeat, steady and reliable, grounding you in the present while pushing you forward into the unknown.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;In this journey, there's a unique blend of exhilaration and calm. The thrill of speed and the rush of the ride are balanced by the meditative focus that comes with the repetitive motion, the sound of tires meeting pavement, the subtle shifts in terrain. It's a dance between effort and ease, a harmony between body and mind. <br><br>&nbsp;&nbsp;&nbsp;&nbsp;Cycling connects you to the world in a way few other activities can. You're not just passing through the landscape; you're immersed in it, feeling every hill, every gust of wind, every ray of sunlight. It's a sensory experience that sharpens your awareness and heightens your appreciation for the simple, often overlooked details of life. <br><br>&nbsp;&nbsp;&nbsp;&nbsp;At the same time, cycling is a personal journey. It's a chance to test your limits, to push beyond what you thought possible, and to discover new strengths. But it's also a space for introspection, where the steady rhythm of the ride creates a quiet mental space for reflection and clarity. <br><br>&nbsp;&nbsp;&nbsp;&nbsp;Whether you're riding through a bustling city or along a tranquil country road, cycling offers a unique blend of adventure and serenity. It's a reminder that the journey itself is as important as the destination, that in the simple act of moving forward on two wheels, you can find both excitement and peace, challenge and comfort, freedom and connection."
+        "headingText": "Cycling is more than just a means of transportation, it's an invitation to explore, a journey on two wheels that merges the physical with the spiritual. As you ride, the world around you transforms - each pedal stroke propels you into a new moment, a fresh perspective. ",
+        "headingSubText": "The wind in your hair becomes a whisper of freedom, a reminder that you're part of something larger, something alive."
       },
       "sections": [
         {
           "id": 1,
-          "heading": "First 100",
+          "heading": "",
           "children": [
             {
               "id": 1,
-              "type": "paragraph",
-              "value": "I remember lying in bed the night before the ride, planning the route. Despite having trained consistently for a few months, I didn’t really believe I would be able to make it. As a heavy rider, the ascent on the way back worried me a bit."
+              "type": "youtubeVideo",
+              "value": "https://www.youtube.com/embed/ESme_UyuKFs?si=66vQ2C2Za7GVet2h"
             },
             {
               "id": 2,
-              "type": "image",
-              "value": "/cycling/two-wheels/first-100-route.jpeg"
+              "type": "paragraph",
+              "value": "The road ahead unfurls like a story yet to be told, each turn revealing a new chapter, each mile a step deeper into the narrative of your own experience. The rhythmic motion of pedaling is like a heartbeat, steady and reliable, grounding you in the present while pushing you forward into the unknown."
             },
             {
               "id": 3,
-              "type": "paragraph",
-              "value": "But once I started the ride, I was so captivated by the beauty of the early morning in the mountains that I completely forgot about it."
+              "type": "image",
+              "value": "/cycling/two-wheels/1.jpeg"
             },
             {
               "id": 4,
-              "type": "images",
-              "value": [
-                {
-                  "original": "https://petroborovets.github.io/rovets/cycling/two-wheels/yablunytsya.jpeg",
-                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/two-wheels/yablunytsya.jpeg"
-                },
-                {
-                  "original": "https://petroborovets.github.io/rovets/cycling/two-wheels/yasinia.jpeg",
-                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/two-wheels/yasinia.jpeg"
-                },
-                {
-                  "original": "https://petroborovets.github.io/rovets/cycling/two-wheels/yasinia-2.jpeg",
-                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/two-wheels/yasinia-2.jpeg"
-                },
-                {
-                  "original": "https://petroborovets.github.io/rovets/cycling/two-wheels/yasinia-3.jpeg",
-                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/two-wheels/yasinia-3.jpeg"
-                },
-                {
-                  "original": "https://petroborovets.github.io/rovets/cycling/two-wheels/yasinia-4.jpeg",
-                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/two-wheels/yasinia-4.jpeg"
-                },
-                {
-                  "original": "https://petroborovets.github.io/rovets/cycling/two-wheels/yasinia-lunch.jpeg",
-                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/two-wheels/yasinia-lunch.jpeg"
-                },
-                {
-                  "original": "https://petroborovets.github.io/rovets/cycling/two-wheels/yasinia-river.jpeg",
-                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/two-wheels/yasinia-river.jpeg"
-                },
-                {
-                  "original": "https://petroborovets.github.io/rovets/cycling/two-wheels/polianytsya.jpeg",
-                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/two-wheels/polianytsya.jpeg"
-                },
-                {
-                  "original": "https://petroborovets.github.io/rovets/cycling/two-wheels/polianytsya-2.jpeg",
-                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/two-wheels/polianytsya-2.jpeg"
-                },
-                {
-                  "original": "https://petroborovets.github.io/rovets/cycling/two-wheels/yablunytsya-2.jpeg",
-                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/two-wheels/yablunytsya-2.jpeg"
-                }
-              ]
+              "type": "paragraph",
+              "value": "In this journey, there's a unique blend of exhilaration and calm. The thrill of speed and the rush of the ride are balanced by the meditative focus that comes with the repetitive motion, the sound of tires meeting pavement, the subtle shifts in terrain. It's a dance between effort and ease, a harmony between body and mind."
+            },
+            {
+              "id": 5,
+              "type": "image",
+              "value": "/cycling/two-wheels/2.jpeg"
+            },
+            {
+              "id": 6,
+              "type": "paragraph",
+              "value": "Cycling connects you to the world in a way few other activities can. You're not just passing through the landscape; you're immersed in it, feeling every hill, every gust of wind, every ray of sunlight. It's a sensory experience that sharpens your awareness and heightens your appreciation for the simple, often overlooked details of life."
+            },
+            {
+              "id": 7,
+              "type": "image",
+              "value": "/cycling/two-wheels/6.jpeg"
+            },
+            {
+              "id": 8,
+              "type": "paragraph",
+              "value": "At the same time, cycling is a personal journey. It's a chance to test your limits, to push beyond what you thought possible, and to discover new strengths. But it's also a space for introspection, where the steady rhythm of the ride creates a quiet mental space for reflection and clarity."
+            },
+            {
+              "id": 9,
+              "type": "image",
+              "value": "/cycling/two-wheels/4.jpeg"
+            },
+            {
+              "id": 10,
+              "type": "paragraph",
+              "value": "Whether you're riding through a bustling city or along a tranquil country road, cycling offers a unique blend of adventure and serenity. It's a reminder that the journey itself is as important as the destination, that in the simple act of moving forward on two wheels, you can find both excitement and peace, challenge and comfort, freedom and connection."
+            },
+            {
+              "id": 11,
+              "type": "image",
+              "value": "/cycling/two-wheels/5.jpeg"
             }
           ]
         }
@@ -526,6 +520,112 @@
                 "You can only call <b>hooks</b> on the top level of component function.",
                 "What is <b>Derived State</b>? - <b>Derived State</b>: state that is computed from an existing peace of state or from props.",
                 "<b>Component</b> vs <b>Instance</b> vs <b>Element</b>:<br>- <b>Component</b> is a code blueprint,<br>- <b>Instance</b> is a \"physical\" representation of the component. <br>- <b>Element</b>: Now, as we know components return JSX which is converted to <code>React.createElement</code> function calls, so <b>Element</b> is a result of usage of <b>Component</b> in our code -it is simply a big immutable javascript object that React keeps in memory. React <b>Element</b> contains all necessary information in order to create DOM elements for the current component instance."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "date": "Aug 25, 2023",
+      "category": 2,
+      "image": "/cycling/first-100/yasinia-4.jpeg",
+      "title": "First 100",
+      "author": "Petro Borovets",
+      "headSection": {
+        "headingText": "I remember lying in bed the night before the ride, planning the route. Despite having trained consistently for a few months, I didn’t really believe I would be able to make it. As a heavy rider, the ascent on the way back worried me a bit.",
+        "headingSubText": "Luckily once I started the ride, I was so captivated by the beauty of the early morning in the mountains that I completely forgot about it."
+      },
+      "sections": [
+        {
+          "id": 1,
+          "heading": "Route",
+          "children": [
+            {
+              "id": 1,
+              "type": "paragraph",
+              "value": "Night before I stayed in <a href=\"https://www.booking.com/Share-eqDVX1\" target=\"_blank\">HVOYA apart-hotel<a/> in Bukovel, plan was to ride from <b>Bukovel</b> west exit -> <b>Bilyn</b> -> <b>Yablunytsia</b> -> <b>Tatariv</b> -> <b>Bukovel</b> east."
+            },
+            {
+              "id": 2,
+              "type": "image",
+              "value": "/cycling/first-100/first-100-route.jpeg"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "heading": "Photos",
+          "children": [
+            {
+              "id": 5,
+              "type": "images",
+              "value": [
+                {
+                  "original": "https://petroborovets.github.io/rovets/cycling/first-100/yablunytsya.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/first-100/yablunytsya.jpeg"
+                },
+                {
+                  "original": "https://petroborovets.github.io/rovets/cycling/first-100/yasinia.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/first-100/yasinia.jpeg"
+                },
+                {
+                  "original": "https://petroborovets.github.io/rovets/cycling/first-100/yasinia-2.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/first-100/yasinia-2.jpeg"
+                },
+                {
+                  "original": "https://petroborovets.github.io/rovets/cycling/first-100/yasinia-3.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/first-100/yasinia-3.jpeg"
+                },
+                {
+                  "original": "https://petroborovets.github.io/rovets/cycling/first-100/yasinia-4.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/first-100/yasinia-4.jpeg"
+                },
+                {
+                  "original": "https://petroborovets.github.io/rovets/cycling/first-100/yasinia-lunch.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/first-100/yasinia-lunch.jpeg"
+                },
+                {
+                  "original": "https://petroborovets.github.io/rovets/cycling/first-100/yasinia-river.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/first-100/yasinia-river.jpeg"
+                },
+                {
+                  "original": "https://petroborovets.github.io/rovets/cycling/first-100/polianytsya.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/first-100/polianytsya.jpeg"
+                },
+                {
+                  "original": "https://petroborovets.github.io/rovets/cycling/first-100/polianytsya-2.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/first-100/polianytsya-2.jpeg"
+                },
+                {
+                  "original": "https://petroborovets.github.io/rovets/cycling/first-100/yablunytsya-2.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/first-100/yablunytsya-2.jpeg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "heading": "Stats",
+          "children": [
+            {
+              "id": 3,
+              "type": "paragraph",
+              "value": "<b>Some stats from <a href=\"https://www.strava.com/activities/9716744953/overview\" target=\"_blank\">Strava<a/>:</b>"
+            },
+            {
+              "id": 6,
+              "type": "list",
+              "value": [
+                "Distance: 100.01 km",
+                "Time total: 4h 30m",
+                "Time moving: 3h 42m",
+                "Avg speed: 27.0 km/h",
+                "Avg HR: 153 bpm",
+                "Power: 184 W",
+                "Breaks: 1 - hot dog in Yasinia (55km), 2- coffe break in Tatariv (85k)"
               ]
             }
           ]

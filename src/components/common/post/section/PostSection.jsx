@@ -26,10 +26,15 @@ function PostSection({section, postId}) {
         <>
             <ul className={s.post_section_heading}>
                 <h1 id={section.id} className={s.post_section_heading_text}>{section.heading}</h1>
-                <Link to={postSectionURLPath}
-                      className={s.post_section_link} onClick={onLinkClick}>
-                    {isLinkClicked ? '📋' : '🔗'}
-                </Link>
+                {
+                    section.heading !== "" ?
+                        <Link to={postSectionURLPath}
+                              className={s.post_section_link} onClick={onLinkClick}>
+                            {isLinkClicked ? '📋' : '🔗'}
+                        </Link>
+                        : ""
+
+                }
 
             </ul>
             {

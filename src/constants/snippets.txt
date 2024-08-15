@@ -1,5 +1,7 @@
 <a href="" target="_blank"><a/>
 <a href="https://github.com/petroborovets/rovets/blob/f5af41e9e8a29e0c8beddd3af8da1e8ee2305fd6/src/constants/posts.json#L13" target="_blank"><a/>
+<a href="https://www.strava.com/activities/9716744953/overview" target="_blank">Strava<a/>
+<a href="https://www.booking.com/Share-eqDVX1" target="_blank">HVOYA apart-hotel<a/>
 
 {
   "id": 1,
@@ -16,3 +18,8 @@
 
   ]
 }
+
+
+
+
+
