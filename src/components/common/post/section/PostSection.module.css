@@ -13,4 +13,10 @@
     font-size: 15px;
     margin-left: 10px;
     margin-right: 10px;
+    opacity: 0;
+    transition: opacity 0.4s ease-in-out;
+}
+
+.post_section_link_visible {
+    opacity: 1;
 }
