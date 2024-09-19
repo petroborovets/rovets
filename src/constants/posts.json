@@ -127,7 +127,7 @@
       "date": "Jul 15, 2024",
       "category": 2,
       "image": "/cycling/two-wheels/hodovytsya.jpeg",
-      "title": "Two wheels",
+      "title": "A Taste of Freedom",
       "author": "Petro Borovets",
       "headSection": {
         "headingText": "Cycling is more than just a means of transportation, it's an invitation to explore, a journey on two wheels that merges the physical with the spiritual. As you ride, the world around you transforms - each pedal stroke propels you into a new moment, a fresh perspective. ",
@@ -146,7 +146,7 @@
             {
               "id": 2,
               "type": "paragraph",
-              "value": "The road ahead unfurls like a story yet to be told, each turn revealing a new chapter, each mile a step deeper into the narrative of your own experience. The rhythmic motion of pedaling is like a heartbeat, steady and reliable, grounding you in the present while pushing you forward into the unknown."
+              "value": "The road ahead unrolls like a story waiting to be told, every turn revealing a new chapter, every mile deepening your connection with the journey. The rhythmic motion of pedaling is like a heartbeat, steady and reliable, grounding you in the present while pushing you forward into the unknown."
             },
             {
               "id": 3,
@@ -345,6 +345,7 @@
                 "Components, props, JSX",
                 "State, events and Forms: Interactive Components",
                 "State management",
+                "How React works behind the scenes",
                 "Effects and Data Fetching",
                 "Hooks, Refs and More State",
                 "Advanced State Management: The Context API"
@@ -504,6 +505,12 @@
         },
         {
           "id": 6,
+          "heading": "How React works behind the scenes",
+          "children": [
+          ]
+        },
+        {
+          "id": 11,
           "heading": "Notes / question-answers",
           "children": [
             {
@@ -523,7 +530,7 @@
     },
     {
       "id": 6,
-      "date": "Aug 25, 2023",
+      "date": "Aug 15, 2024",
       "category": 2,
       "image": "/cycling/first-100/yasinia-4.jpeg",
       "title": "Centuries",
