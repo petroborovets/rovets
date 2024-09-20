@@ -13,7 +13,7 @@ const Image = ({sectionChild}) => <ImagePostSection imageSrc={sectionChild.value
 const Paragraph = ({sectionChild}) => <ParagraphPostSection text={sectionChild.value} />
 const List = ({sectionChild}) => <ListPostSection list={sectionChild.value} />
 const YouTubeVideo = ({sectionChild}) => <YoutubeVideoPostSection videoSrc={sectionChild.value} />
-const Gallery = ({sectionChild}) => <ImageGallery additionalClass={s.gallery_section_child} items={sectionChild.value} />
+const Gallery = ({sectionChild}) => <ImageGallery additionalClass={s.gallery_section_child} items={sectionChild.value} thumbnailPosition={"left"} />
 const Map = ({sectionChild}) => <GoogleMap mapSrc={sectionChild.value} />
 
 function PostSectionChild({sectionChild}) {
