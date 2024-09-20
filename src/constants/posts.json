@@ -536,18 +536,18 @@
       "title": "Centuries",
       "author": "Petro Borovets",
       "headSection": {
-        "headingText": "Century ride is a road cycling event covering 100 kilometers or more in metric system countries, or 100 miles (160.9 km) or more in imperial system countries, typically organized by cycling clubs. Many clubs host an annual century ride as a social gathering for cyclists and as a fundraiser for the club's other activities. The exact origins of the century ride are unclear, but most agree they were invented in the United States, around the 1890's.",
-        "headingSubText": "This was a period when cycling was becoming increasingly popular, and long-distance rides were seen as a test of endurance and fitness. The century ride remains a milestone for many cyclists, symbolizing not just physical endurance but also a love of cycling and a connection to the sport's rich history."
+        "headingText": "The century ride. That grand, mythical beast of the cycling world, where pedal meets pavement for a grueling 100 kilometers (or 100 miles if you’re from a land where kilometers fear to tread). Whether it’s on winding roads in metric countries or sprawling miles in imperial lands, it’s a right of passage, an ode to endurance. Organized by cycling clubs, these events draw us in with the promise of camaraderie, self-doubt, and probably the finest post-ride snacks you’ll ever encounter. Some clubs even make it an annual affair—a social gathering, a fundraiser, a chance to test one’s mettle against the clock, the road, and their own excuses.",
+        "headingSubText": "The origins of the century ride are as murky as a foggy mountain pass, though whispers suggest it first surfaced in the United States, circa 1890. That was when cycling was the latest craze—before smartphones, selfies, and riding for “the ‘Gram.” Back then, the goal wasn’t just to cover a distance, but to prove something: you had the endurance, the fitness, and maybe just enough madness to ride for hours on end. Fast forward to today, and the century ride remains a milestone for cyclists around the world. It’s more than just a badge of honor—it’s a love letter to the open road, a connection to the rich, sometimes bizarre history of the sport. And trust me, it’s one heck of a story to tell at the next gathering over coffee… or, you know, sports drinks."
       },
       "sections": [
         {
           "id": 1,
-          "heading": "August 25, 2023, Bukovel, first 100",
+          "heading": "August 25, 2023 – Bukovel, My First Century Ride",
           "children": [
             {
               "id": 1,
               "type": "paragraph",
-              "value": "I remember lying in bed the night before my first 100 km ride, planning the route. Despite having trained consistently for a few months, I wasn’t entirely sure I could complete it, especially in the Carpathians. As a heavier rider, the ascent on the way back worried me a bit. Luckily, once I started the ride, I was so captivated by the beauty of the early morning in the mountains that I completely forgot about it. It was also quite cold outside, and when it's cold, that's all you can really think about."
+              "value": "Ah, my first 100 kilometers. I still remember the night before—staring at the ceiling, second-guessing my life choices, and plotting a route that felt ambitious, even for the freshly motivated version of me. I’d trained consistently for months, but there’s always that little voice that wonders, “Can I really do this?” Especially when the Carpathian Mountains are involved. The hills! And, well, gravity wasn’t exactly my best friend."
             },
             {
               "id": 2,
@@ -557,7 +557,7 @@
             {
               "id": 3,
               "type": "paragraph",
-              "value": "I stayed in <a href=\"https://www.booking.com/Share-eqDVX1\" target=\"_blank\">HVOYA apart-hotel<a/> in Bukovel, plan was to ride from <b>Bukovel</b> west exit -> <b>Bilyn</b> -> <b>Yablunytsia</b> -> <b>Tatariv</b> -> and back to <b>Bukovel</b> but entering from the east."
+              "value": "The ride began with a chill in the air—one of those mornings where you question why anyone would voluntarily leave a warm bed for a cold saddle. But as the sun kissed the mountains, the beauty of the Carpathians stole the show, and all my pre-ride worries melted away. Cold? What cold? I mean, except for the moments when I could only think about the cold. I stayed in <a href=\"https://www.booking.com/Share-eqDVX1\" target=\"_blank\">HVOYA apart-hotel<a/> in Bukovel, plan was to ride from <b>Bukovel</b> west exit -> <b>Bilyn</b> -> <b>Yablunytsia</b> -> <b>Tatariv</b> -> and back to <b>Bukovel</b> but entering from the east. It sounded simple enough. In reality? Well, let’s just say every hill had a sense of humor I wasn’t quite ready for."
             },
             {
               "id": 4,
@@ -614,9 +614,9 @@
               "id": 6,
               "type": "list",
               "value": [
-                "Distance: 100.01 km",
-                "Time total: 4h 30m",
+                "Distance: 100.01 km (because 100 km exactly is too mainstream)",
                 "Time moving: 3h 42m",
+                "Time total: 4h 30m (because we all need breaks, right?)",
                 "Avg speed: 27.0 km/h",
                 "Avg HR: 153 bpm",
                 "Power: 184 W",
