@@ -22,6 +22,7 @@ function FeaturedSection({categoryId}) {
                                           image={post.image}
                                           category={post.category}
                                           title={post.title}
+                                          author={post.author}
                                           date={post.date}
                     />
                 )
