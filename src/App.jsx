@@ -1,13 +1,13 @@
 import "./App.css"
 import HomePage from "./pages/home/HomePage.jsx"
-import {createHashRouter, RouterProvider} from "react-router-dom";
+import {createBrowserRouter, RouterProvider} from "react-router-dom";
 import AboutPage from "./pages/about/AboutPage.jsx";
 import ContactPage from "./pages/contact/ContactPage.jsx";
 import PostPage from "./pages/post/PostPage.jsx";
 import MainPageLayout from "./layouts/MainPageLayout.jsx";
 import CategoryPage from "./pages/category/CategoryPage.jsx";
 
-const router = createHashRouter([
+const router = createBrowserRouter([
     {
         path: '/',
         element: <MainPageLayout/>,
