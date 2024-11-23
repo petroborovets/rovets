@@ -35,7 +35,7 @@
               "id": 1,
               "type": "list",
               "value": [
-                "Спарування React Browser Router із Github Pages, про проблему можна почитати тут: <a href=\"https://stackoverflow.com/questions/46056414/getting-404-for-links-with-create-react-app-deployed-to-github-pages\" target=\"_blank\">StackOverflow<a/>. Рішення було використовувати Reacts Hash Router, рішення не найкраще, так як воно псує естетику URLs, але воно швидке і працює: <a href=\"https://reactrouter.com/en/main/routers/create-hash-router\" target=\"_blank\">www.reactrouter.com<a/>."
+                "Апдейт: Проблема вже не актуальна, ура! - Спарування React Browser Router із Github Pages, про проблему можна почитати тут: <a href=\"https://stackoverflow.com/questions/46056414/getting-404-for-links-with-create-react-app-deployed-to-github-pages\" target=\"_blank\">StackOverflow<a/>. Рішення було використовувати Reacts Hash Router, рішення не найкраще, так як воно псує естетику URLs, але воно швидке і працює: <a href=\"https://reactrouter.com/en/main/routers/create-hash-router\" target=\"_blank\">www.reactrouter.com<a/>."
               ]
             }
           ]
