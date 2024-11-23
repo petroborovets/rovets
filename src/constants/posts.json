@@ -532,7 +532,7 @@
       "id": 6,
       "date": "Aug 15, 2024",
       "category": 2,
-      "image": "/cycling/first-100/yasinia-4.jpeg",
+      "image": "/cycling/centuries/yasinia-4.jpeg",
       "title": "Centuries",
       "author": "Petro Borovets",
       "headSection": {
@@ -540,6 +540,86 @@
         "headingSubText": "The origins of the century ride are as murky as a foggy mountain pass, though whispers suggest it first surfaced in the United States, circa 1890. That was when cycling was the latest craze - before smartphones, selfies, and riding for “the ‘Gram.” Back then, the goal wasn’t just to cover a distance, but to prove something: you had the endurance, the fitness, and maybe just enough madness to ride for hours on end. Fast forward to today, and the century ride remains a milestone for cyclists around the world. It’s more than just a badge of honor - it’s a love letter to the open road, a connection to the rich, sometimes bizarre history of the sport. And trust me, it’s one heck of a story to tell at the next gathering over coffee… or, you know, sports drinks."
       },
       "sections": [
+        {
+          "id": 2,
+          "heading": "October 21, 2024 – From Lviv to Zhovkva: A Ride Through Serenity, Cake, and Canine Wisdom",
+          "children": [
+            {
+              "id": 1,
+              "type": "paragraph",
+              "value": "Yesterday, I decided to embark on a solo cycling adventure from Lviv to the picturesque town of Zhovkva and back. Let me just say, it was a ride straight out of a fairy tale. The weather? Perfect. No wind, hardly any cars, and the bike felt like it was flying. Honestly, it was one of those rides where everything aligns… except for my overthinking brain, which stubbornly insisted on revisiting work worries instead of just enjoying the moment."
+            },
+            {
+              "id": 2,
+              "type": "paragraph",
+              "value": "Initially, I planned to stick to my “zone 2” training (for the non-cyclists: a chill pace). But, of course, that plan went out the window, as it usually does. Lesson learned: I should really stop obsessing over the numbers on my cycling computer."
+            },
+            {
+              "id": 3,
+              "type": "image",
+              "value": "/cycling/centuries/2024-10-24/map.png"
+            },
+            {
+              "id": 4,
+              "type": "paragraph",
+              "value": "When I arrived in Zhovkva, I rewarded myself with a coffee and a tiny piece of Napoleon cake at a cozy café on the main square. They served the cake with some kind of sauce that was absolutely divine. I sat outside, soaking up the sun, eavesdropping on the locals’ cheerful conversations, and enjoying the warmth. Even better, a friendly dog strolled over, and after a short “chat,” decided to sit and chill beside me. A true gentleman of the canine world."
+            },
+
+            {
+              "id": 5,
+              "type": "paragraph",
+              "value": "On the way back, things got a bit tougher, but the magic never faded. One of the highlights was a quiet, enchanting forest near Ivano-Frankove. The rolling hills there were a dream to ride through. As for the workout itself, I noticed I’ve improved at keeping a steady power output on climbs. All those short ascents in the 300–400-watt range felt surprisingly smooth. Progress feels good, even if it’s a bit nerdy to measure rides in watts."
+            },
+
+            {
+              "id": 6,
+              "type": "paragraph",
+              "value": "All in all, this was one of those rides that reminds you why cycling is so special. Just me, my bike, the open road… and the occasional existential crisis."
+            },
+            {
+              "id": 7,
+              "type": "images",
+              "value": [
+                {
+                  "original": "https://petroborovets.github.io/rovets/cycling/centuries/2024-10-24/IMG_7085.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/centuries/2024-10-24/IMG_7085.jpeg"
+                },
+                {
+                  "original": "https://petroborovets.github.io/rovets/cycling/centuries/2024-10-24/IMG_7088.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/centuries/2024-10-24/IMG_7088.jpeg"
+                },
+                {
+                  "original": "https://petroborovets.github.io/rovets/cycling/centuries/2024-10-24/IMG_7093.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/centuries/2024-10-24/IMG_7093.jpeg"
+                },
+                {
+                  "original": "https://petroborovets.github.io/rovets/cycling/centuries/2024-10-24/IMG_7100.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/centuries/2024-10-24/IMG_7100.jpeg"
+                },
+                {
+                  "original": "https://petroborovets.github.io/rovets/cycling/centuries/2024-10-24/IMG_7113.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/centuries/2024-10-24/IMG_7113.jpeg"
+                },
+                {
+                  "original": "https://petroborovets.github.io/rovets/cycling/centuries/2024-10-24/IMG_7126.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/centuries/2024-10-24/IMG_7126.jpeg"
+                },
+                {
+                  "original": "https://petroborovets.github.io/rovets/cycling/centuries/2024-10-24/IMG_7127.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/centuries/2024-10-24/IMG_7127.jpeg"
+                },
+                {
+                  "original": "https://petroborovets.github.io/rovets/cycling/centuries/2024-10-24/IMG_7127.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/centuries/2024-10-24/IMG_7127.jpeg"
+                },
+                {
+                  "original": "https://petroborovets.github.io/rovets/cycling/centuries/2024-10-24/IMG_7129.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/centuries/2024-10-24/IMG_7129.jpeg"
+                }
+              ]
+            }
+          ]
+        },
         {
           "id": 1,
           "heading": "August 25, 2023 – Bukovel, My First Century Ride",
@@ -552,7 +632,7 @@
             {
               "id": 2,
               "type": "image",
-              "value": "/cycling/first-100/first-100-route.jpeg"
+              "value": "/cycling/centuries/first-100-route.jpeg"
             },
             {
               "id": 3,
@@ -564,44 +644,44 @@
               "type": "images",
               "value": [
                 {
-                  "original": "https://petroborovets.github.io/rovets/cycling/first-100/yablunytsya.jpeg",
-                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/first-100/yablunytsya.jpeg"
+                  "original": "https://petroborovets.github.io/rovets/cycling/centuries/yablunytsya.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/centuries/yablunytsya.jpeg"
                 },
                 {
-                  "original": "https://petroborovets.github.io/rovets/cycling/first-100/yasinia.jpeg",
-                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/first-100/yasinia.jpeg"
+                  "original": "https://petroborovets.github.io/rovets/cycling/centuries/yasinia.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/centuries/yasinia.jpeg"
                 },
                 {
-                  "original": "https://petroborovets.github.io/rovets/cycling/first-100/yasinia-2.jpeg",
-                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/first-100/yasinia-2.jpeg"
+                  "original": "https://petroborovets.github.io/rovets/cycling/centuries/yasinia-2.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/centuries/yasinia-2.jpeg"
                 },
                 {
-                  "original": "https://petroborovets.github.io/rovets/cycling/first-100/yasinia-3.jpeg",
-                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/first-100/yasinia-3.jpeg"
+                  "original": "https://petroborovets.github.io/rovets/cycling/centuries/yasinia-3.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/centuries/yasinia-3.jpeg"
                 },
                 {
-                  "original": "https://petroborovets.github.io/rovets/cycling/first-100/yasinia-4.jpeg",
-                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/first-100/yasinia-4.jpeg"
+                  "original": "https://petroborovets.github.io/rovets/cycling/centuries/yasinia-4.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/centuries/yasinia-4.jpeg"
                 },
                 {
-                  "original": "https://petroborovets.github.io/rovets/cycling/first-100/yasinia-lunch.jpeg",
-                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/first-100/yasinia-lunch.jpeg"
+                  "original": "https://petroborovets.github.io/rovets/cycling/centuries/yasinia-lunch.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/centuries/yasinia-lunch.jpeg"
                 },
                 {
-                  "original": "https://petroborovets.github.io/rovets/cycling/first-100/yasinia-river.jpeg",
-                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/first-100/yasinia-river.jpeg"
+                  "original": "https://petroborovets.github.io/rovets/cycling/centuries/yasinia-river.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/centuries/yasinia-river.jpeg"
                 },
                 {
-                  "original": "https://petroborovets.github.io/rovets/cycling/first-100/polianytsya.jpeg",
-                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/first-100/polianytsya.jpeg"
+                  "original": "https://petroborovets.github.io/rovets/cycling/centuries/polianytsya.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/centuries/polianytsya.jpeg"
                 },
                 {
-                  "original": "https://petroborovets.github.io/rovets/cycling/first-100/polianytsya-2.jpeg",
-                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/first-100/polianytsya-2.jpeg"
+                  "original": "https://petroborovets.github.io/rovets/cycling/centuries/polianytsya-2.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/centuries/polianytsya-2.jpeg"
                 },
                 {
-                  "original": "https://petroborovets.github.io/rovets/cycling/first-100/yablunytsya-2.jpeg",
-                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/first-100/yablunytsya-2.jpeg"
+                  "original": "https://petroborovets.github.io/rovets/cycling/centuries/yablunytsya-2.jpeg",
+                  "thumbnail": "https://petroborovets.github.io/rovets/cycling/centuries/yablunytsya-2.jpeg"
                 }
               ]
             },
