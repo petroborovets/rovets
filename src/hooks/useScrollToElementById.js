@@ -1,13 +1,15 @@
 import { useEffect } from "react";
 
 
-function useScrollToElementById(id) {
+function useScrollToElementById(post, sectionId) {
     useEffect(() => {
-        const element = document.getElementById(id);
-        if (element) {
-            element.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        if (post && sectionId) {
+            const element = document.getElementById(sectionId);
+            if (element) {
+                element.scrollIntoView({ behavior: "smooth", block: "start" });
+            }
         }
-    }, [id]);
+    }, [post, sectionId]);
 }
 
 export default useScrollToElementById;

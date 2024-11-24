@@ -1,38 +1,37 @@
-import s from './FeaturedSection.module.css'
-
+import s from './FeaturedSection.module.css';
 import FeaturedSectionEntry from "./featuredSectionEntry/FeaturedSectionEntry.jsx";
-
-import postsJson from './../../../constants/posts.json'
 import PropTypes from "prop-types";
 
-function FeaturedSection({categoryId}) {
+function FeaturedSection({ categoryId }) {
+    const postFiles = import.meta.glob('./../../../constants/posts/*.json', { eager: true });
 
-    const posts = postsJson.posts?.filter(post => categoryId ? post.category === categoryId : true);
+    // Convert imported files to an array of post objects
+    const posts = Object.values(postFiles).map(file => file.default || file);
 
-    posts.sort(function(a, b) {
-        return Date.parse(a.date) > Date.parse(b.date) ? -1 : 1;
-    })
+    // Filter and sort posts
+    const filteredPosts = posts
+        .filter(post => (categoryId ? post.category === categoryId : true))
+        .sort((a, b) => (Date.parse(a.date) > Date.parse(b.date) ? -1 : 1));
 
     return (
         <div className={s.section}>
-            {
-                posts.map(post =>
-                    <FeaturedSectionEntry key={post.id}
-                                          id={post.id}
-                                          image={post.image}
-                                          category={post.category}
-                                          title={post.title}
-                                          author={post.author}
-                                          date={post.date}
-                    />
-                )
-            }
+            {filteredPosts.map(post => (
+                <FeaturedSectionEntry
+                    key={post.id}
+                    id={post.id}
+                    image={post.image}
+                    category={post.category}
+                    title={post.title}
+                    author={post.author}
+                    date={post.date}
+                />
+            ))}
         </div>
     );
 }
 
 FeaturedSection.propTypes = {
     categoryId: PropTypes.number
-}
+};
 
 export default FeaturedSection;
