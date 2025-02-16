@@ -1,9 +1,19 @@
 import s from './FeaturedSection.module.css';
 import FeaturedSectionEntry from "./featuredSectionEntry/FeaturedSectionEntry.jsx";
 import PropTypes from "prop-types";
+import {useLanguage} from "../../../context/LanguageContext.jsx";
 
-function FeaturedSection({ categoryId }) {
-    const postFiles = import.meta.glob('./../../../constants/posts/*.json', { eager: true });
+function FeaturedSection({categoryId}) {
+    const {language} = useLanguage();
+    console.log('Language in FeaturedSection:' + language)
+    let postFiles;
+    switch (language) {
+        case "ukr":
+            postFiles = import.meta.glob('./../../../constants/posts/ukr/*.json', {eager: true});
+            break
+        default:
+            postFiles = import.meta.glob('./../../../constants/posts/en/*.json', {eager: true});
+    }
 
     // Convert imported files to an array of post objects
     const posts = Object.values(postFiles).map(file => file.default || file);

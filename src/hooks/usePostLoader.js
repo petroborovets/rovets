@@ -1,9 +1,7 @@
 import { useEffect } from "react";
 
-function usePostLoader(postId, setPost, setLoading) {
+function usePostLoader(postFiles, postId, setPost, setLoading) {
     useEffect(() => {
-        const postFiles = import.meta.glob('../constants/posts/*.json', { eager: true });
-
         const loadPost = async () => {
             const postFile = Object.values(postFiles).find(file => file.default?.id == postId);
             if (postFile) {
