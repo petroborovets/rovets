@@ -1,10 +1,9 @@
 import { useEffect } from "react";
 
-function usePostLoader(postId, setPost, setLoading) {
+function usePostLoader(postFiles, postId, setPost, setLoading, language) {
     useEffect(() => {
-        const postFiles = import.meta.glob('../constants/posts/*.json', { eager: true });
-
         const loadPost = async () => {
+            setLoading(true);
             const postFile = Object.values(postFiles).find(file => file.default?.id == postId);
             if (postFile) {
                 setPost(postFile.default || postFile);
@@ -15,7 +14,8 @@ function usePostLoader(postId, setPost, setLoading) {
         };
 
         loadPost();
-    }, [postId, setPost, setLoading]);
+    }, [postId, postFiles, setPost, setLoading, language]); // Added postFiles and language
+
 }
 
 export default usePostLoader;

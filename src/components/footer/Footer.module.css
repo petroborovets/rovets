@@ -44,11 +44,21 @@
 }
 
 .footer_right_copyright {
-    margin-top: 50px;
+    margin-top: 60px;
     text-align: right;
     color: rgba(255, 255, 255, 0.8);
 }
 
 .footer_about_description_ghub {
     color: rgba(255, 255, 255, 0.8);
+}
+
+.language_toggle_container {
+    display: flex;
+    float: right;
+    gap: 1rem;
+}
+
+.language_toggle_container span {
+    font-size: 2.3rem;
 }

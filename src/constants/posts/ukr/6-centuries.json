@@ -1,0 +1,179 @@
+{
+  "id": 6,
+  "date": "Oct 21, 2024",
+  "category": 2,
+  "image": "/cycling/centuries/yasinia-4.jpeg",
+  "title": "Довгі поїздки",
+  "author": "Petro Borovets",
+  "headSection": {
+    "headingText": "Цей грандіозний, майже міфічний звір у світі велоспорту, де педаль зустрічається з асфальтом на виснажливих 100 кілометрах (або 100 милях, якщо ви з краю, де кілометри бояться ступати). Чи то звивистими дорогами в метричних країнах, чи нескінченними милями в імперських, цей виклик – своєрідний ритуал посвяти, гімн витривалості. Організовані велоклубами, такі події приваблюють учасників обіцянкою товариства, сумнівів у власних силах і, швидше за все, найкращих закусок після заїзду, які вам доводилося куштувати. Деякі клуби навіть роблять це щорічною традицією – соціальним зібранням, благодійним заходом, можливістю випробувати себе у битві з годинником, дорогою і власними виправданнями.",
+    "headingSubText": "Походження сторічного заїзду таке ж туманне, як гірський перевал у густому серпанку, хоча подейкують, що він уперше з’явився у США приблизно в 1890 році. У ті часи велоспорт був справжнім шаленством – ще до смартфонів, селфі та поїздок “для Інсти”. Тоді мета була не просто подолати дистанцію, а довести щось: що у тебе є витривалість, сила і, можливо, крапля божевілля, щоб крутити педалі годинами без упину. Перенесемося в наш час – і сторічний заїзд досі залишається важливою віхою для велосипедистів усього світу. Це більше, ніж просто почесний значок – це любовний лист до відкритої дороги, зв’язок із багатою, часом химерною історією цього спорту. І, повірте, це ще та історія, яку варто розповісти за наступною чашкою кави… або, знаєте, спортивного напою."
+  },
+  "sections": [
+    {
+      "id": 2,
+      "heading": "Жовтень 21, 2024 – Зі Львова до Жовквки і назад: Подорож крізь спокій, торт і собачу мудрість",
+      "children": [
+        {
+          "id": 1,
+          "type": "paragraph",
+          "value": "Учора я вирішив вирушити в сольну велопригоду зі Львова до мальовничої Жовкви і назад. Скажу одразу – це була поїздка, наче зі сторінок казки. Погода? Ідеальна. Без вітру, майже без машин, а велосипед ніби летів сам собою. Чесно, це був один із тих заїздів, коли все складається якнайкраще… крім моєї голови, яка уперто повертався до робочих думок замість того, щоб просто насолоджуватися моментом."
+        },
+        {
+          "id": 2,
+          "type": "paragraph",
+          "value": "Спочатку я планував дотримуватися тренування в “зоні 2” (для не-велосипедистів: це спокійний темп). Але, звісно, цей план пішов коту під хвіст, як зазвичай. Урок засвоєно: варто перестати зациклюватися на цифрах на велокомп’ютері."
+        },
+        {
+          "id": 3,
+          "type": "image",
+          "value": "/cycling/centuries/2024-10-24/map.png"
+        },
+        {
+          "id": 4,
+          "type": "paragraph",
+          "value": "Прибувши в Жовкву, я винагородив себе кавою і маленьким шматочком торта “Наполеон” у затишній кав’ярні Коц Coffee на головній площі. Торт подали з якимось соусом, що був просто божественним. Я сів на вулиці, насолоджувався сонцем, підслуховував веселі розмови місцевих і просто ловив цей момент тепла. А ще до мене підійшов дружній пес – після короткої “бесіди” він вирішив сісти поруч і просто відпочивати. Справжній джентльмен у світі собак."
+        },
+
+        {
+          "id": 5,
+          "type": "paragraph",
+          "value": "На зворотному шляху стало трохи важче, але магія не зникла. Одним із найкращих моментів був тихий, зачарований ліс біля Івано-Франкового. Котитися хвилястими пагорбами там – суцільне задоволення. Щодо тренування, то я помітив, що значно краще тримаю стабільну потужність на підйомах. Усі ті короткі підйоми в діапазоні 300–400 ватів давалися напрочуд легко. Відчуття прогресу приємне, навіть якщо вимірювати поїздки у ватах звучить трохи нудно."
+        },
+
+        {
+          "id": 6,
+          "type": "paragraph",
+          "value": "Загалом, це була одна з тих поїздок, які нагадують, чому велоспорт такий особливий. Я, мій велосипед, відкрита дорога… і час від часу невеличка екзистенційна криза."
+        },
+        {
+          "id": 7,
+          "type": "images",
+          "value": [
+            {
+              "original": "https://petroborovets.github.io/rovets/cycling/centuries/2024-10-24/IMG_7085.jpeg",
+              "thumbnail": "https://petroborovets.github.io/rovets/cycling/centuries/2024-10-24/IMG_7085.jpeg"
+            },
+            {
+              "original": "https://petroborovets.github.io/rovets/cycling/centuries/2024-10-24/IMG_7088.jpeg",
+              "thumbnail": "https://petroborovets.github.io/rovets/cycling/centuries/2024-10-24/IMG_7088.jpeg"
+            },
+            {
+              "original": "https://petroborovets.github.io/rovets/cycling/centuries/2024-10-24/IMG_7093.jpeg",
+              "thumbnail": "https://petroborovets.github.io/rovets/cycling/centuries/2024-10-24/IMG_7093.jpeg"
+            },
+            {
+              "original": "https://petroborovets.github.io/rovets/cycling/centuries/2024-10-24/IMG_7100.jpeg",
+              "thumbnail": "https://petroborovets.github.io/rovets/cycling/centuries/2024-10-24/IMG_7100.jpeg"
+            },
+            {
+              "original": "https://petroborovets.github.io/rovets/cycling/centuries/2024-10-24/IMG_7113.jpeg",
+              "thumbnail": "https://petroborovets.github.io/rovets/cycling/centuries/2024-10-24/IMG_7113.jpeg"
+            },
+            {
+              "original": "https://petroborovets.github.io/rovets/cycling/centuries/2024-10-24/IMG_7126.jpeg",
+              "thumbnail": "https://petroborovets.github.io/rovets/cycling/centuries/2024-10-24/IMG_7126.jpeg"
+            },
+            {
+              "original": "https://petroborovets.github.io/rovets/cycling/centuries/2024-10-24/IMG_7127.jpeg",
+              "thumbnail": "https://petroborovets.github.io/rovets/cycling/centuries/2024-10-24/IMG_7127.jpeg"
+            },
+            {
+              "original": "https://petroborovets.github.io/rovets/cycling/centuries/2024-10-24/IMG_7128.jpeg",
+              "thumbnail": "https://petroborovets.github.io/rovets/cycling/centuries/2024-10-24/IMG_7128.jpeg"
+            },
+            {
+              "original": "https://petroborovets.github.io/rovets/cycling/centuries/2024-10-24/IMG_7129.jpeg",
+              "thumbnail": "https://petroborovets.github.io/rovets/cycling/centuries/2024-10-24/IMG_7129.jpeg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "heading": "Серпень 25, 2023 – Буковель, Моя перша сотня",
+      "children": [
+        {
+          "id": 1,
+          "type": "paragraph",
+          "value": "Ах, мої перші 100 кілометрів. Досі пам’ятаю ніч перед поїздкою – втуплений у стелю, сумніваючись у своїх життєвих рішеннях і прокладаючи маршрут, який здавався надто амбітним навіть для моєї новоспеченої мотивованої версії. Я тренувався стабільно протягом кількох місяців, але завжди є той маленький голос, що питає: “А чи справді я зможу?” Особливо коли маршрут проходить через Карпати. Підйоми! А ще… гравітація, яка явно була не на моєму боці."
+        },
+        {
+          "id": 2,
+          "type": "image",
+          "value": "/cycling/centuries/first-100-route.jpeg"
+        },
+        {
+          "id": 3,
+          "type": "paragraph",
+          "value": "Поїздка почалася з прохолоди – одного з тих ранків, коли ти ставиш під сумнів здоровий глузд кожного, хто добровільно залишає тепле ліжко заради холодного сідла. Але щойно сонце торкнулося гір, краса Карпат узяла гору, і всі мої передстартові хвилювання розчинилися. Холод? Який холод? Ну, окрім тих моментів, коли думав лише про нього. Я зупинився в <a href=\"https://www.booking.com/Share-eqDVX1\" target=\"_blank\">HVOYA apart-hotel<a/> у Буковелі. План був таким: старт із західного виїзду Буковеля -> Білин -> Яблуниця -> Татарів -> повернення в Буковель, але вже зі східного боку. Звучало досить просто. Насправді? Ну, скажімо так – кожен підйом мав почуття гумору, до якого я був не зовсім готовий."
+        },
+        {
+          "id": 4,
+          "type": "images",
+          "value": [
+            {
+              "original": "https://petroborovets.github.io/rovets/cycling/centuries/yablunytsya.jpeg",
+              "thumbnail": "https://petroborovets.github.io/rovets/cycling/centuries/yablunytsya.jpeg"
+            },
+            {
+              "original": "https://petroborovets.github.io/rovets/cycling/centuries/yasinia.jpeg",
+              "thumbnail": "https://petroborovets.github.io/rovets/cycling/centuries/yasinia.jpeg"
+            },
+            {
+              "original": "https://petroborovets.github.io/rovets/cycling/centuries/yasinia-2.jpeg",
+              "thumbnail": "https://petroborovets.github.io/rovets/cycling/centuries/yasinia-2.jpeg"
+            },
+            {
+              "original": "https://petroborovets.github.io/rovets/cycling/centuries/yasinia-3.jpeg",
+              "thumbnail": "https://petroborovets.github.io/rovets/cycling/centuries/yasinia-3.jpeg"
+            },
+            {
+              "original": "https://petroborovets.github.io/rovets/cycling/centuries/yasinia-4.jpeg",
+              "thumbnail": "https://petroborovets.github.io/rovets/cycling/centuries/yasinia-4.jpeg"
+            },
+            {
+              "original": "https://petroborovets.github.io/rovets/cycling/centuries/yasinia-lunch.jpeg",
+              "thumbnail": "https://petroborovets.github.io/rovets/cycling/centuries/yasinia-lunch.jpeg"
+            },
+            {
+              "original": "https://petroborovets.github.io/rovets/cycling/centuries/yasinia-river.jpeg",
+              "thumbnail": "https://petroborovets.github.io/rovets/cycling/centuries/yasinia-river.jpeg"
+            },
+            {
+              "original": "https://petroborovets.github.io/rovets/cycling/centuries/polianytsya.jpeg",
+              "thumbnail": "https://petroborovets.github.io/rovets/cycling/centuries/polianytsya.jpeg"
+            },
+            {
+              "original": "https://petroborovets.github.io/rovets/cycling/centuries/polianytsya-2.jpeg",
+              "thumbnail": "https://petroborovets.github.io/rovets/cycling/centuries/polianytsya-2.jpeg"
+            },
+            {
+              "original": "https://petroborovets.github.io/rovets/cycling/centuries/yablunytsya-2.jpeg",
+              "thumbnail": "https://petroborovets.github.io/rovets/cycling/centuries/yablunytsya-2.jpeg"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "type": "paragraph",
+          "value": "<b>Трошки статистики із <a href=\"https://www.strava.com/activities/9716744953/overview\" target=\"_blank\">Strava<a/>:</b>"
+        },
+        {
+          "id": 6,
+          "type": "list",
+          "value": [
+            "Дистанція: 100.01 km (бо рівно 100 км — це занадто мейнстрімно.)",
+            "Час пересування: 3h 42m",
+            "Час загальний: 4h 30m (бо всім потрібні перерви, правда?)",
+            "Середня швидкість: 27.0 km/h",
+            "Середнє серцебиття: 153 bpm",
+            "Потужність: 184 W",
+            "Перерви: 1 - хот-дог у Ясіня (55km), 2- зупинка на каву у Татарові (85k)"
+          ]
+        }
+      ]
+    }
+  ]
+}

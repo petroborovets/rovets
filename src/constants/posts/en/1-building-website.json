@@ -1,0 +1,42 @@
+{
+  "id": 1,
+  "date": "April 23, 2024",
+  "category": 1,
+  "image": "borovets-brothers.jpeg",
+  "title": "Building our Website",
+  "author": "Petro Borovets",
+  "hoursOnCalls": "5",
+  "headSection": {
+    "headingText": "So, here should have been a short story about how our website was built… or how it eventually came into existence. The idea was born in a family of true IT alchemists: the younger brother—a frontend wizard, and the older brother—a backend master. What could possibly go wrong here? The plan was as simple as transferring two bytes: the younger brother practices backend, and the older brother has fun with frontend. They exchanged experiences — someone took functions, other handled styles—and the result of this magical experiment is something I’ll write about later… if the website doesn’t disappear into the interdimensional IT void of abandoned projects.",
+    "headingSubText": "The dream of creating a little website to document something useful experienced ups and downs, much like launching a server on a Friday night. The idea was to create a place where, over time, one could nostalgically scroll through old posts and remember when the world was younger, and code was richer with bugs. Our site is written in React, proudly hosted on GitHub Pages, and the styling is pure art—no CSS frameworks involved (because who doesn’t love a bit of a challenge, right?). All the content is stored in JSON files, just like the images, which are scattered across the sources. This makes the site easy to update—if you wish, you can tweak everything with just a few clicks. Here’s an example link to the JSON file containing the content for this paragraph: GitHub."
+  },
+  "sections": [
+    {
+      "id": 1,
+      "heading": "Some facts",
+      "children": [
+        {
+          "id": 1,
+          "type": "list",
+          "value": [
+            "How many days did I spend working on the site? 12 days—which is probably like the 12 labors of Hercules, but with slightly less physical activity and significantly more caffeine. And, of course, the actual time is conveniently much longer, since I haven’t updated this in who knows how long.",
+            "Number of hours in meetings with my brother: 9 hours. And here’s the most interesting part—meetings with my younger brother were held in a tense atmosphere because he was slightly annoyed that I kept pulling him away from his games. Every time before a meeting, he’d look at me like a final boss he couldn’t possibly avoid. And although I tortured him with frontend, I’m convinced it trained his endurance no worse than any quest. Thank goodness, after those 9 hours, the older brother finally managed to rise from the metaphorical knees he had been on, sighing over frontend. Slowly but surely, he returned to life, although every line of CSS will continue to sting in his memory for a while."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "heading": "Issues",
+      "children": [
+        {
+          "id": 1,
+          "type": "list",
+          "value": [
+            "Pairing React Browser Router with GitHub Pages—an issue you can read about here: StackOverflow. The solution was to use React’s Hash Router—not the best choice since it ruins the aesthetics of URLs, but it’s quick and it works: www.reactrouter.com."
+          ]
+        }
+      ]
+    }
+  ]
+}
