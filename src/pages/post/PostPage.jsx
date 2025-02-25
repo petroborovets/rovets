@@ -26,7 +26,6 @@ function PostPage() {
     const [loading, setLoading] = useState(true);
 
     const {language} = useLanguage();
-    console.log('PostPage ' + language)
     let postFiles = getPostFiles(language);
 
     usePostLoader(postFiles, postId, setPost, setLoading, language)

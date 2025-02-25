@@ -5,7 +5,6 @@ import {useLanguage} from "../../../context/LanguageContext.jsx";
 
 function FeaturedSection({categoryId}) {
     const {language} = useLanguage();
-    console.log('Language in FeaturedSection:' + language)
     let postFiles;
     switch (language) {
         case "ukr":
