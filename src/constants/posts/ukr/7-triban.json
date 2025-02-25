@@ -1,0 +1,170 @@
+{
+  "id": 7,
+  "date": "Feb 25, 2025",
+  "category": 5,
+  "image": "/store/triban/0.jpeg",
+  "title": "Triban на стероїдах",
+  "author": "Petro Borovets",
+  "headSection": {
+    "headingText": "Продається легендарний Triban RC500! Якщо ви шукали велосипед, який пройшов школу життя, але залишився у відмінній формі – ви його знайшли!\nЦей Triban RC500 – наче хороший французький сир: витриманий, вдосконалений та готовий до нових пригод.",
+    "headingSubText": "Що треба знати про цього красеня? Вік: 2 роки (але виглядає і їде молодо). Доглянутий: по болотах не їздив, по місту та шосе котився з легкістю. Обслуговувався вчасно – мастила брав більше, ніж деякі автівки. Отримав ряд апгрейдів, які зроблять ваше катання ще приємнішим."
+  },
+  "sections": [
+    {
+      "id": 1,
+      "heading": "Технічні характеристики",
+      "children": [
+        {
+          "id": 1,
+          "type": "list",
+          "value": [
+            "Розмір: L (56)",
+            "Рама: алюмінієва",
+            "Вилка: карбонова",
+            "Підседіл: elitaone, карбоновий",
+            "Сідло: ноунейм, карбонове (але сидиться як на хмаринці)",
+            "Руль: карбоновий з виносом 90мм",
+            "Групсет: Shimano Sora",
+            "Довжина шатуна: 175мм",
+            "Колеса: стокові",
+            "Покришки: Continentals Terra Speed 40 (тублес)",
+            "Вага: 10.9 кг (не важчий за кота)"
+          ]
+        },
+        {
+          "id": 2,
+          "type": "images",
+          "value": [
+            {
+              "original": "https://petroborovets.github.io/rovets/store/triban/1.png",
+              "thumbnail": "https://petroborovets.github.io/rovets/store/triban/1.png"
+            },
+            {
+              "original": "https://petroborovets.github.io/rovets/store/triban/2.png",
+              "thumbnail": "https://petroborovets.github.io/rovets/store/triban/2.png"
+            },
+            {
+              "original": "https://petroborovets.github.io/rovets/store/triban/3.png",
+              "thumbnail": "https://petroborovets.github.io/rovets/store/triban/3.png"
+            },
+            {
+              "original": "https://petroborovets.github.io/rovets/store/triban/4.png",
+              "thumbnail": "https://petroborovets.github.io/rovets/store/triban/4.png"
+            },
+            {
+              "original": "https://petroborovets.github.io/rovets/store/triban/5.png",
+              "thumbnail": "https://petroborovets.github.io/rovets/store/triban/5.png"
+            },
+            {
+              "original": "https://petroborovets.github.io/rovets/store/triban/6.png",
+              "thumbnail": "https://petroborovets.github.io/rovets/store/triban/6.png"
+            },
+            {
+              "original": "https://petroborovets.github.io/rovets/store/triban/7.png",
+              "thumbnail": "https://petroborovets.github.io/rovets/store/triban/7.png"
+            },
+            {
+              "original": "https://petroborovets.github.io/rovets/store/triban/8.png",
+              "thumbnail": "https://petroborovets.github.io/rovets/store/triban/8.png"
+            },
+            {
+              "original": "https://petroborovets.github.io/rovets/store/triban/9.png",
+              "thumbnail": "https://petroborovets.github.io/rovets/store/triban/9.png"
+            },
+            {
+              "original": "https://petroborovets.github.io/rovets/store/triban/10.png",
+              "thumbnail": "https://petroborovets.github.io/rovets/store/triban/10.png"
+            },
+            {
+              "original": "https://petroborovets.github.io/rovets/store/triban/11.png",
+              "thumbnail": "https://petroborovets.github.io/rovets/store/triban/11.png"
+            },
+            {
+              "original": "https://petroborovets.github.io/rovets/store/triban/12.png",
+              "thumbnail": "https://petroborovets.github.io/rovets/store/triban/12.png"
+            },
+            {
+              "original": "https://petroborovets.github.io/rovets/store/triban/13.png",
+              "thumbnail": "https://petroborovets.github.io/rovets/store/triban/13.png"
+            },
+            {
+              "original": "https://petroborovets.github.io/rovets/store/triban/14.png",
+              "thumbnail": "https://petroborovets.github.io/rovets/store/triban/14.png"
+            },
+            {
+              "original": "https://petroborovets.github.io/rovets/store/triban/15.png",
+              "thumbnail": "https://petroborovets.github.io/rovets/store/triban/15.png"
+            },
+            {
+              "original": "https://petroborovets.github.io/rovets/store/triban/16.png",
+              "thumbnail": "https://petroborovets.github.io/rovets/store/triban/16.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "heading": "Встановлені апгрейди",
+      "children": [
+        {
+          "id": 1,
+          "type": "list",
+          "value": [
+            "Карбоновий підсиділ – мінус вага, плюс комфорт",
+            "Карбонове сідло – стиль та легкість в одному флаконі",
+            "Карбоновий руль із коротшим виносом – 90мм",
+            "Топові гравійні покришки Continentals Terra Speed 40 (тублес, встановлені ніпелями milkit)",
+            "Нова оригінальна каретка (2 місяці тому)",
+            "Новий ланцюг (4 місяці тому) – ще багато кілометрів попереду"
+          ]
+        },
+        {
+          "id": 2,
+          "type": "images",
+          "value": [
+            {
+              "original": "https://petroborovets.github.io/rovets/store/triban/17.png",
+              "thumbnail": "https://petroborovets.github.io/rovets/store/triban/17.png"
+            },
+            {
+              "original": "https://petroborovets.github.io/rovets/store/triban/18.png",
+              "thumbnail": "https://petroborovets.github.io/rovets/store/triban/18.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "heading": "Бонуси до велосипеда",
+      "children": [
+        {
+          "id": 1,
+          "type": "list",
+          "value": [
+            "Оригінальний алюмінієвий руль із виносом (110мм) – на випадок, якщо скучите за класикою",
+            "Оригінальне сідло – для цінителів оригіналу",
+            "Алюмінієвий підсиділ – раптом захочеться трохи важчого життя",
+            "Новий ланцюг у коробці – про запас",
+            "Ще одна касета (для станка або просто для різноманіття)"
+          ]
+        },
+        {
+          "id": 2,
+          "type": "images",
+          "value": [
+            {
+              "original": "https://petroborovets.github.io/rovets/store/triban/19.png",
+              "thumbnail": "https://petroborovets.github.io/rovets/store/triban/19.png"
+            },
+            {
+              "original": "https://petroborovets.github.io/rovets/store/triban/20.png",
+              "thumbnail": "https://petroborovets.github.io/rovets/store/triban/20.png"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
