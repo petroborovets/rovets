@@ -3,11 +3,11 @@
   "date": "Jul 15, 2024",
   "category": 2,
   "image": "/cycling/two-wheels/hodovytsya.jpeg",
-  "title": "Смак свободи",
+  "title": "Ковток свободи",
   "author": "Petro Borovets",
   "headSection": {
-    "headingText": "Cycling is more than just a means of transportation, it's an invitation to explore, a journey on two wheels that merges the physical with the spiritual. As you ride, the world around you transforms - each pedal stroke propels you into a new moment, a fresh perspective. ",
-    "headingSubText": "The wind in your hair becomes a whisper of freedom, a reminder that you're part of something larger, something alive."
+    "headingText": "Байкінг - це більше, ніж просто засіб пересування, це запрошення до досліджень, подорож на двох колесах, яка поєднує фізичне та духовне. Коли ти їдеш, світ навколо змінюється – кожен оберт педалей переносить тебе в новий момент, відкриває свіжий погляд.",
+    "headingSubText": "Вітер у волоссі стає шепотом свободи, нагадуванням про те, що ти є частиною чогось більшого, чогось живого."
   },
   "sections": [
     {
@@ -22,7 +22,7 @@
         {
           "id": 2,
           "type": "paragraph",
-          "value": "The road ahead unrolls like a story waiting to be told, every turn revealing a new chapter, every mile deepening your connection with the journey. The rhythmic motion of pedaling is like a heartbeat, steady and reliable, grounding you in the present while pushing you forward into the unknown."
+          "value": "Дорога попереду розгортається, немов історія, що чекає на свого оповідача, кожен поворот відкриває новий розділ, кожна миля зміцнює твій зв’язок із подорожжю. Ритмічний рух педалей подібний до серцебиття – сталий і надійний, він утримує тебе в теперішньому моменті, водночас штовхаючи вперед, у невідоме."
         },
         {
           "id": 3,
@@ -32,7 +32,7 @@
         {
           "id": 4,
           "type": "paragraph",
-          "value": "In this journey, there's a unique blend of exhilaration and calm. The thrill of speed and the rush of the ride are balanced by the meditative focus that comes with the repetitive motion, the sound of tires meeting pavement, the subtle shifts in terrain. It's a dance between effort and ease, a harmony between body and mind."
+          "value": "У цій подорожі поєднуються збудження та спокій. Захоплення швидкістю й адреналін від їзди врівноважуються медитативною зосередженістю, що з’являється завдяки повторюваному руху, звуку шин, які торкаються асфальту, ледь відчутним змінам рельєфу. Це танець між зусиллям і легкістю, гармонія між тілом і розумом."
         },
         {
           "id": 5,
@@ -42,7 +42,7 @@
         {
           "id": 6,
           "type": "paragraph",
-          "value": "Cycling connects you to the world in a way few other activities can. You're not just passing through the landscape; you're immersed in it, feeling every hill, every gust of wind, every ray of sunlight. It's a sensory experience that sharpens your awareness and heightens your appreciation for the simple, often overlooked details of life."
+          "value": "Велоспорт пов’язує тебе зі світом так, як мало яка інша діяльність. Ти не просто проїжджаєш повз пейзаж – ти занурюєшся в нього, відчуваючи кожен пагорб, кожен порив вітру, кожен сонячний промінь. Це сенсорний досвід, що загострює сприйняття і змушує більше цінувати прості, часто непомічені деталі життя."
         },
         {
           "id": 7,
@@ -52,7 +52,7 @@
         {
           "id": 8,
           "type": "paragraph",
-          "value": "At the same time, cycling is a personal journey. It's a chance to test your limits, to push beyond what you thought possible, and to discover new strengths. But it's also a space for introspection, where the steady rhythm of the ride creates a quiet mental space for reflection and clarity."
+          "value": "Водночас велоспорт – особиста подорож. Можливість випробувати свої межі, вийти за рамки можливого й відкрити нові сили. Але це також простір для самоаналізу, де рівномірний ритм їзди створює тихий розумовий простір для роздумів і ясності."
         },
         {
           "id": 9,
@@ -62,7 +62,7 @@
         {
           "id": 10,
           "type": "paragraph",
-          "value": "Whether you're riding through a bustling city or along a tranquil country road, cycling offers a unique blend of adventure and serenity. It's a reminder that the journey itself is as important as the destination, that in the simple act of moving forward on two wheels, you can find both excitement and peace, challenge and comfort, freedom and connection."
+          "value": "Чи мчиш ти через гамірне місто, чи рухаєшся спокійною сільською дорогою, велоспорт дарує унікальне поєднання пригод і гармонії. Це нагадування, що сама подорож не менш важлива за пункт призначення, що в простому русі вперед на двох колесах можна знайти і азарт, і спокій, виклик і комфорт, свободу і єднання."
         }
       ]
     }

@@ -21,6 +21,7 @@ function FeaturedSection({categoryId}) {
     // Filter and sort posts
     const filteredPosts = posts
         .filter(post => (categoryId ? post.category === categoryId : true))
+        .filter(post => post.hidden !== true)
         .sort((a, b) => (Date.parse(a.date) > Date.parse(b.date) ? -1 : 1));
 
     return (

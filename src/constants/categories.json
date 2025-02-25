@@ -9,12 +9,16 @@
       "name": "Cycling"
     },
     {
-      "id": 4,
+      "id": 3,
       "name": "Travel"
     },
     {
-      "id": 8,
+      "id": 4,
       "name": "Gaming"
+    },
+    {
+      "id": 5,
+      "name": "Store"
     }
   ]
 }
