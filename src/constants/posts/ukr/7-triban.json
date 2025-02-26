@@ -161,12 +161,12 @@
           "type": "images",
           "value": [
             {
-              "original": "https://petroborovets.github.io/rovets/store/triban/19.png",
-              "thumbnail": "https://petroborovets.github.io/rovets/store/triban/19.png"
-            },
-            {
               "original": "https://petroborovets.github.io/rovets/store/triban/20.png",
               "thumbnail": "https://petroborovets.github.io/rovets/store/triban/20.png"
+            },
+            {
+              "original": "https://petroborovets.github.io/rovets/store/triban/19.png",
+              "thumbnail": "https://petroborovets.github.io/rovets/store/triban/19.png"
             }
           ]
         }
