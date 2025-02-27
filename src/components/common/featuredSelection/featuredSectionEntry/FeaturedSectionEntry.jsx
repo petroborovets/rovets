@@ -11,21 +11,22 @@ function FeaturedSectionEntry(props) {
     const defaultAuthor = 'Petro Borovets'
 
     return (
-        <div className={s.section_entry}>
-            <Link to={"/rovets/post/" + id}>
+        <Link to={"/rovets/post/" + id} className={s.section_entry_link}>
+            <div className={s.section_entry}>
                 <img src={ORIGIN_URL + image} alt="photo"/>
-            </Link>
-            <Link to={"/rovets/category/" + category} className={s.section_entry_cat}>{categoryName}</Link>
-            <h2 className={s.section_entry_title}>{title}</h2>
-            <div className={s.section_entry_date_and_author}>
-                {
-                    author !== defaultAuthor
-                        ? <span className={s.section_entry_author}>by {author}</span>
-                        : ""
-                }
-                <span className={s.section_entry_date}>{date}</span>
+
+                <Link to={"/rovets/category/" + category} className={s.section_entry_cat}>{categoryName}</Link>
+                <h2 className={s.section_entry_title}>{title}</h2>
+                <div className={s.section_entry_date_and_author}>
+                    {
+                        author !== defaultAuthor
+                            ? <span className={s.section_entry_author}>by {author}</span>
+                            : ""
+                    }
+                    <span className={s.section_entry_date}>{date}</span>
+                </div>
             </div>
-</div>
+        </Link>
     )
 }
 
