@@ -8,7 +8,7 @@
   "hoursOnCalls": "5",
   "headSection": {
     "headingText": "So, here should have been a short story about how our website was built… or how it eventually came into existence. The idea was born in a family of true IT alchemists: the younger brother—a frontend wizard, and the older brother—a backend master. What could possibly go wrong here? The plan was as simple as transferring two bytes: the younger brother practices backend, and the older brother has fun with frontend. They exchanged experiences — someone took functions, other handled styles—and the result of this magical experiment is something I’ll write about later… if the website doesn’t disappear into the interdimensional IT void of abandoned projects.",
-    "headingSubText": "The dream of creating a little website to document something useful experienced ups and downs, much like launching a server on a Friday night. The idea was to create a place where, over time, one could nostalgically scroll through old posts and remember when the world was younger, and code was richer with bugs. Our site is written in React, proudly hosted on GitHub Pages, and the styling is pure art—no CSS frameworks involved (because who doesn’t love a bit of a challenge, right?). All the content is stored in JSON files, just like the images, which are scattered across the sources. This makes the site easy to update—if you wish, you can tweak everything with just a few clicks. Here’s an example link to the JSON file containing the content for this paragraph: GitHub."
+    "headingSubText": "The dream of creating a little website to document something useful experienced ups and downs, much like launching a server on a Friday night. The idea was to create a place where, over time, one could nostalgically scroll through old posts and remember when the world was younger, and code was richer with bugs. Our site is written in React, proudly hosted on GitHub Pages, and the styling is pure art—no CSS frameworks involved (because who doesn’t love a bit of a challenge, right?). All the content is stored in JSON files, just like the images, which are scattered across the sources. This makes the site easy to update—if you wish, you can tweak everything with just a few clicks. Here’s an example link to the JSON file containing the content for this paragraph: <a href=\"https://github.com/petroborovets/rovets/blob/91ce56dc4669f0dd1e6261101d805298c17d4c69/src/constants/posts/en/1-building-website.json#L11\" target=\"_blank\">GitHub<a/>."
   },
   "sections": [
     {
@@ -33,7 +33,7 @@
           "id": 1,
           "type": "list",
           "value": [
-            "Pairing React Browser Router with GitHub Pages—an issue you can read about here: StackOverflow. The solution was to use React’s Hash Router—not the best choice since it ruins the aesthetics of URLs, but it’s quick and it works: www.reactrouter.com."
+            "Pairing React Browser Router with GitHub Pages—an issue you can read about here: <a href=\"https://stackoverflow.com/questions/46056414/getting-404-for-links-with-create-react-app-deployed-to-github-pages\" target=\"_blank\">StackOverflow<a/>. The solution was to use React’s Hash Router—not the best choice since it ruins the aesthetics of URLs, but it’s quick and it works: <a href=\"https://reactrouter.com/en/main/routers/create-hash-router\" target=\"_blank\">www.reactrouter.com<a/>."
           ]
         }
       ]
