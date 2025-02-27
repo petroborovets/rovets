@@ -21,7 +21,7 @@
 }
 
 .section_entry_cat {
-    display: block;
+    display: inline-block;
     text-decoration: none;
     text-transform: uppercase;
     letter-spacing: .1rem;
